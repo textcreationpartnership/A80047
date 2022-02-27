@@ -1,0 +1,731 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gods vvisdom justified, and mans folly condemned, touching all maner of outward providential administrations, in a sermon / preached before the Honorable House of Commons, Ian. 31. 1648. By John Cardell.</title>
+            <author>Cardell, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 103 KB of XML-encoded text transcribed from 28 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80047</idno>
+            <idno type="STC">Wing C492</idno>
+            <idno type="STC">Thomason E540_24</idno>
+            <idno type="STC">ESTC R205775</idno>
+            <idno type="EEBO-CITATION">99865056</idno>
+            <idno type="PROQUEST">99865056</idno>
+            <idno type="VID">117291</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80047)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117291)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 84:E540[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Gods vvisdom justified, and mans folly condemned, touching all maner of outward providential administrations, in a sermon / preached before the Honorable House of Commons, Ian. 31. 1648. By John Cardell.</title>
+                  <author>Cardell, John.</author>
+               </titleStmt>
+               <extent>[4], 40 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Field for Henry Cripps, and are to be sold in Popes-head-Alley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  17th century.</term>
+               <term>Fast-day sermons --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117291:1" rendition="simple:additions"/>
+            <p>GODS VVISDOM JUSTIFIED, AND MANS FOLLY CONDEMNED, Touching all maner of Outward <hi>Providential Adminiſtrations,</hi> IN A SERMON PREACHED Before the Honorable Houſe of COMMONS, <hi>Ian.</hi> 31. 1648.</p>
+            <p>By <hi>John Cardell.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Matth. 11.19.</hi>
+               </bibl> Wiſdom is juſtified of her children.</q>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>John Field</hi> for <hi>Henry Cripps,</hi> and are to be ſold in Popes-head-Alley. 1649.</p>
+         </div>
+         <div xml:lang="lat" type="note">
+            <pb facs="tcp:117291:2"/>
+            <pb facs="tcp:117291:2"/>
+            <head>HONORATISSIMO CELEBER RIMO QUE SENATUI DOMUI COMMUNIUM IN SALUTEM REI-PUBLICAE ANGLICANAE FOELICITER IN PARLIAMENTO CONGREGATAE.</head>
+            <p>Concionem hanc ſuam Publicâ Jejunii ſolennitate nuper habitam, Exile quidem &amp; perexiguunt, obedientiae tamen ſuae &amp; obſervan<g ref="char:EOLhyphen"/>tiae Teſtimonium, D.D.D.</p>
+            <closer>
+               <signed>JOHAN: CARDELL.</signed>
+            </closer>
+         </div>
+         <div type="order">
+            <pb facs="tcp:117291:3"/>
+            <head>Die Mercurii, <hi>31</hi> Ianuarii, <hi>1648.</hi>
+            </head>
+            <p>ORdered by the Commons aſ<g ref="char:EOLhyphen"/>ſembled in Parliament, That Mr. <hi>Millington</hi> do give the Thanks of this Houſe to Mr. <hi>Cardell,</hi> for his great pains in his Sermon preached before this Houſe this day; and that he be deſired to print his Sermon, wherein he is to have the like privi<g ref="char:EOLhyphen"/>ledge of printing it, as others in like kinde have uſually had.</p>
+            <closer>
+               <signed>Hen: Scobell, Cleric. Parl. Dom. Com.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:117291:3" rendition="simple:additions"/>
+            <head>GODS VVISDOM JUSTIFIED, AND MANS FOLLY CONDEMNED, Touching all maner of outward Provi<g ref="char:EOLhyphen"/>dential Adminiſtrations: In a Sermon Preached at the late Faſt before the Commons Houſe of PARLIAMENT.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PSAL. 73.21, 22, 23.</hi>
+                  </bibl>
+                  <p>
+                     <bibl>
+                        <hi>21</hi>
+                     </bibl> Thus my heart was grieved, and I was pricked in my reins.</p>
+                  <p>
+                     <bibl>
+                        <hi>22</hi>
+                     </bibl> So fooliſh was I, and ignorant: I was as a beaſt before thee.</p>
+                  <p>
+                     <bibl>
+                        <hi>23</hi>
+                     </bibl> Nevertheleſs, I am continually with thee: thou haſt holden me by my right hand.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>His Pſalm (<note n="*" place="margin">De Pſalmi authore non auxtè diſputo, quanquam mihi veriſimile eſt, quia ejus canen di Provincia mandata fuerit ipſi Aſaph, Nomen ejus Poni, praeterito Da<g ref="char:EOLhyphen"/>vidis nomine, ſicuti res per ſe notae ſaepe taceri ſolent. <hi>Calv. in Loc.</hi>
+               </note> compoſed by <hi>David</hi> for <hi>Aſaph</hi>) contains a <hi>Declaration</hi> of <hi>Da<g ref="char:EOLhyphen"/>vids</hi> being under a very ſore and grie<g ref="char:EOLhyphen"/>vous <hi>Temptation;</hi> together with the way or means of his <hi>deliverance</hi> from that <hi>Temptation.</hi>
+            </p>
+            <pb facs="tcp:117291:4"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="1" facs="tcp:117291:4"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="1" facs="tcp:117291:5"/>
+            <p>
+               <note place="margin">David tempt<g ref="char:EOLhyphen"/>ed, and upon what ground.</note>The <hi>Temptation</hi> it ſelf <hi>aroſe</hi> from the great <hi>Pro<g ref="char:EOLhyphen"/>ſperity</hi> that he ſaw amongſt <hi>wicked</hi> men; for ſo he ſays at the 3. <hi>ver. I was envious at the fooliſh, when I ſaw the proſperity of the wicked: for there are no bands in their death; but their ſtrength is firm: They are not in trouble, as other men; neither are they plagued like other men, &amp;c.</hi> v. 4, 5.</p>
+            <p>
+               <note place="margin">The greatneſs and danger of the Tempta<g ref="char:EOLhyphen"/>tion.</note>Upon this <hi>occaſion</hi> he was ſo mightily <hi>perplexed</hi> and <hi>troubled,</hi> and ſo exceeding hard <hi>put to it,</hi> that he was even <hi>almoſt</hi> quite loſt: <hi>My feet were almoſt gone,</hi> ſays he,<note place="margin">Ver. 2.</note> 
+               <hi>my footſteps had well-nigh ſlipt;</hi> I was even ready to ſay,<note place="margin">Ver. 13.</note> 
+               <hi>Verily, I have cleanſed my heart in vain. and waſhed my hands in innocency.</hi> This was the ſore <hi>Temptation</hi> that the Pſalmiſt was here under.</p>
+            <p>
+               <note place="margin">The way of his deliverance from the Tem<g ref="char:EOLhyphen"/>ptation, two ways pro<g ref="char:EOLhyphen"/>pounded.</note>The <hi>way</hi> or <hi>means</hi> whereby he did <hi>recover</hi> him<g ref="char:EOLhyphen"/>ſelf from under this <hi>Temptation,</hi> that's here <hi>pro<g ref="char:EOLhyphen"/>pounded,</hi> or ſet down two <hi>ways;</hi> 1. More <hi>generally,</hi> and then more <hi>particularly.</hi>
+            </p>
+            <p>
+               <note place="margin">1. More general<g ref="char:EOLhyphen"/>ly, ver. 16, 17.</note>More generally in the 16 and 17 <hi>verſes;</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>I thought to know this, &amp;c.</hi> that is, when I tho<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> to out wraſtle this <hi>Temptation,</hi> to unfold this <hi>myſte<g ref="char:EOLhyphen"/>ry,</hi> concerning the <hi>proſperity</hi> of the wicked, and the <hi>adverſity</hi> of the godly, by my own <hi>ſtrength,</hi> I could not do it, ſays he, <hi>It was too painful for me, until I went into the Sanctuary of God;</hi> and then I clearly ſaw the end of theſe men, and how God is pleaſed to <hi>ſet them</hi> for a while in <hi>ſlippery places, &amp;c.</hi> This he lays down in the general.</p>
+            <p>
+               <note place="margin">2. More particu<g ref="char:EOLhyphen"/>larly in the<g ref="char:punc">▪</g> Text.</note>
+               <hi>But then in the words of the Text,</hi> he tells us more <hi>particularly</hi> of his <hi>Trouble,</hi> and of the <hi>way</hi> or <hi>means</hi> whereby he came to <hi>relieve</hi> himſelf; <hi>Thus my heart was grieved, and I was pricked in my reins: So fooliſh was I, and ignorant; I was as a beaſt before
+<pb facs="tcp:117291:5"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="1" facs="tcp:117291:6"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:117291:6"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:117291:7"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="3" facs="tcp:117291:7"/> thee: Nevertheleſs, I am continually with thee; thou haſt holden me by my right hand.</hi>
+            </p>
+            <p>In which words you have three things notable:<note place="margin">Wherein three parts.</note>
+               <list>
+                  <item>1. <hi>Davids</hi> trouble.</item>
+                  <item>2. The <hi>ground</hi> of his trouble: and</item>
+                  <item>3. The <hi>relief</hi> that he had againſt his trouble.</item>
+               </list>
+            </p>
+            <p>His <hi>trouble</hi> in the firſt words of the Text,<note place="margin">1. <hi>Davids</hi> trouble.</note> 
+               <hi>Thus my heart was grieved, and I was pricked in my reins.</hi>
+            </p>
+            <p>The <hi>ground</hi> of his trouble in the next words,<note place="margin">2. The <hi>ground</hi> of his trouble.</note> 
+               <hi>So fooliſh was I, and ignorant; I was as a beaſt before thee.</hi>
+            </p>
+            <p>And then the <hi>relief</hi> that he had againſt his trou<g ref="char:EOLhyphen"/>ble,<note place="margin">3. His <hi>relief</hi> againſt it.</note> that follows in the laſt words, <hi>Nevertheleſs, I am continually with thee; thou haſt holden me by my right hand.</hi>
+            </p>
+            <p>
+               <hi>To begin firſt with the trouble</hi> that was here upon <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſpirit, <hi>My heart was grieved,</hi> ſays he,<note place="margin">1. Of <hi>Davids</hi> trouble, toge<g ref="char:EOLhyphen"/>ther with that which did at the firſt occa<g ref="char:EOLhyphen"/>ſion it.</note> 
+               <hi>and I was pricked in my reins:</hi> But upon what <hi>occaſion?</hi> What was it that troubled him on this maner, but his poring too much upon the outward proſperity of wicked men? And from thence ye may obſerve, <q>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Doctr. </seg>1</label> That Temptations ariſing from outward worldly oc<g ref="char:EOLhyphen"/>caſions, may very dangerouſly ſeize upon the ſpi<g ref="char:EOLhyphen"/>rit of a godly man.</q>
+            </p>
+            <p>As here ye ſee, that which <hi>troubled</hi> the ſpirit of <hi>David,</hi> and that went to the very <hi>heart</hi> of him; that which <hi>pricked him in his reins,</hi> it was not any <hi>in<g ref="char:EOLhyphen"/>ward trouble</hi> about his own <hi>eſtate</hi> and <hi>condition,</hi> or any thing that did any way reſpect, the <hi>good of his ſoul;</hi> but it was <hi>ſomething</hi> from without that did it: The outward <hi>Proſperity</hi> of wicked men was that which <hi>dazled</hi> his eyes, and that which <hi>occaſioned</hi> all this trouble to him.</p>
+            <pb n="4" facs="tcp:117291:8"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Uſe. </seg>
+               </label> I ſhall not ſtay upon this, onely make <hi>this Uſe</hi> of it, and ſo <hi>proceed</hi> unto that which <hi>follows,</hi> as that which I mainly <hi>intend.</hi>
+            </p>
+            <p>Becauſe we are ſo apt to be <hi>enſnared</hi> by outward worldly <hi>objects,</hi> therefore we ſhould <hi>take heed</hi> of giving our ſelves too much <hi>liberty</hi> that way, to <hi>gaze</hi> upon every vain fooliſh <hi>object</hi> that <hi>preſents</hi> it ſelf un<g ref="char:EOLhyphen"/>to us.</p>
+            <p>Eſpecially our <hi>care</hi> ſhould be, to keep our <hi>hearts</hi> and our <hi>affections</hi> at a due diſtance <hi>from the things of the world;</hi>
+               <note place="margin">
+                  <hi>Pſal. 62.10.</hi> Abraham Di<g ref="char:EOLhyphen"/>ves, Dives Job, David Dives, &amp; quid Abra<g ref="char:EOLhyphen"/>ham beatius? Quid Job fortius? Quid David ſanctius? <hi>Chry. fol. Serm. 28.</hi>
+               </note> and not think our ſelves ever the <hi>better,</hi> becauſe we <hi>have them,</hi> or ever the <hi>worſe,</hi> becauſe we <hi>want them,</hi> by reaſon of that extreme <hi>vanity</hi> or <hi>emptineſs</hi> that is in them.</p>
+            <p>Its a <hi>dangerous</hi> thing to <hi>plod</hi> too much, to <hi>pore</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> vehemently upon <hi>earthly things:</hi> How many men have been <hi>undone</hi> that way, by <hi>looking</hi> too much after <hi>worldly Profits,</hi> and <hi>worldly Pleaſures,</hi> and <hi>world<g ref="char:EOLhyphen"/>ly Preferments,</hi> and by fantaſtical <hi>imaginations</hi> of a greater <hi>Happineſs</hi> in theſe things, then is to be <hi>found</hi> in them?</p>
+            <p>Ye ſee <hi>David</hi> here, a <hi>choyce</hi> man, a man of an <hi>ex<g ref="char:EOLhyphen"/>cellent ſpirit,</hi>
+               <note place="margin">1 Sam. 13.15.</note> the man <hi>after Gods own heart,</hi> when once he was <hi>engaged</hi> upon this <hi>ſtudy,</hi> what ado he had to <hi>winde</hi> himſelf off again; and though he did <hi>get off</hi> at the laſt, yet ye ſee how <hi>near</hi> he was to a <hi>fall,</hi> what a deal of <hi>trouble</hi> it coſt him, and what a <hi>mighty ſtorm</hi> it brought upon his ſpirit, before he <hi>could get off:</hi> Therefore I ſay, Let us be <hi>ſure</hi> never to <hi>meddle,</hi> never to <hi>engage</hi> upon earthly <hi>ſtudies</hi> and <hi>contemplations,</hi> without being ſufficiently <hi>fenced</hi> and <hi>armed</hi> aforehand, with very <hi>Spiritual</hi> and heavenly <hi>conſiderations.</hi> And thus much briefly concerning
+<pb n="5" facs="tcp:117291:8"/> 
+               <hi>Davids</hi> trouble here, together with that which did at the firſt <hi>occaſion</hi> it, namely, The outward <hi>Proſpe<g ref="char:EOLhyphen"/>rity</hi> of wicked men.</p>
+            <p>
+               <hi>From this remote cauſe of his trouble,</hi>
+               <note place="margin">The neareſt cauſe of <hi>Da<g ref="char:EOLhyphen"/>vids</hi> trouble.</note> let us in the next place come to <hi>conſider</hi> of that which the Text here <hi>mentions</hi> as the <hi>neareſt cauſe</hi> of it; <hi>Thus my heart was grieved, and I was pricked in my reins: So fooliſh was I, and ignorant; I was as a beaſt before thee.</hi> Ye ſee <hi>David</hi> here lays himſelf very <hi>low</hi> be<g ref="char:EOLhyphen"/>fore the Lord,<note place="margin">Note.</note> and <hi>ſo have the ſervants of God been always wont to do, upon the diſcovery of their failings:</hi> But I paſs that alſo. And from <hi>Davids acknowledge<g ref="char:EOLhyphen"/>ment</hi> here of his own <hi>ignorance,</hi> and <hi>folly,</hi> and <hi>bruit<g ref="char:EOLhyphen"/>iſhneſs,</hi> to have been the <hi>cauſe</hi> of all that <hi>trouble</hi> that was upon his <hi>ſpirit,</hi> you may obſerve from thence in the next place, <q>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Doctr. </seg>2</label> That in difficult caſes about Divine and heavenly Diſpenſations, it is meerly our own ignorance and folly that troubles us, and that frequently cauſes us to miſcarry.</q>
+            </p>
+            <p>And therefore <hi>David</hi> lays all the <hi>blame</hi> upon himſelf here, he does not any way <hi>accuſe</hi> God,<note place="margin">Clear from the Text.</note> or <hi>charge him fooliſhly,</hi> as the <hi>maner</hi> of too many is,<note place="margin">Iob. 1.23.</note> in ſuch like <hi>caſes;</hi> but he does <hi>accuſe</hi> himſelf, and <hi>condemn</hi> himſelf of too much <hi>ignorance,</hi> and <hi>folly,</hi> and <hi>weakneſs,</hi> that he ſhould be ſo <hi>mightily</hi> puzled, and ſo <hi>exceſsively</hi> troubled about ſuch a <hi>poor thing</hi> as this, The outward <hi>Proſperity</hi> of ungodly men: And it muſt needs be ſo, that it is <hi>nothing elſe,</hi> but our own <hi>ignorance,</hi> and <hi>folly,</hi> that troubles us in <hi>caſes</hi> of difficulty about <hi>Providential Adminiſtra<g ref="char:EOLhyphen"/>tions.</hi>
+            </p>
+            <p>
+               <hi>Becauſe</hi> we may be <hi>ſure</hi> of this,<note place="margin">The reaſon of it.</note> That <hi>God</hi> cannot
+<pb n="6" facs="tcp:117291:9"/> be <hi>unmindeful</hi> of his <hi>Covenant</hi> with, or of his <hi>ſeve<g ref="char:EOLhyphen"/>ral Promiſes</hi> and <hi>Engagements</hi> unto his own <hi>People:</hi> This is as <hi>ſure,</hi> as that which is <hi>moſt ſure,</hi> and as <hi>clear,</hi> as that which is <hi>moſt clear,</hi> That <hi>God</hi> will cer<g ref="char:EOLhyphen"/>tainly <hi>order</hi> all the great <hi>Affairs</hi> of the <hi>world</hi> in that <hi>way,</hi> which may chiefly <hi>tend</hi> unto the <hi>advancement</hi> of his own <hi>Glory,</hi>
+               <note place="margin">Prov. 16.4. Rom. 8.28.</note> and the good of his <hi>own People;</hi> and therefore though this preſent <hi>Temptation</hi> here had caſt <hi>David</hi> into a very <hi>ſad diſtemper,</hi> and berea<g ref="char:EOLhyphen"/>ved <hi>him</hi> for a while of his <hi>right underſtanding,</hi> yet as ſoon as ever he had <hi>recovered</hi> himſelf <hi>again,</hi> he <hi>pre<g ref="char:EOLhyphen"/>ſently</hi> ſtarts up, and the <hi>firſt words</hi> he ſpeaks <hi>are theſe, Yet God is good to Iſrael,</hi>
+               <note place="margin">Verſe 1.</note> 
+               <hi>and to ſuch as are of a clean heart before him;</hi> as if he ſhould have ſaid, Though I in my <hi>fooliſh diſtemper</hi> was apt to <hi>think</hi> otherwiſe, and to <hi>ſpeak</hi> otherwiſe; though I was ready to ſay, That <hi>God</hi> dealt <hi>hardly</hi> with his own <hi>People,</hi> in keep<g ref="char:EOLhyphen"/>ing them <hi>low,</hi> and in <hi>ſetting up the right hand of their Adverſaries;</hi> yet, Now that I am <hi>come to my ſelf</hi> again, and, Now that I have been in the <hi>San<g ref="char:EOLhyphen"/>ctuary of God,</hi> to be <hi>taught</hi> there, and to be <hi>inſtruct<g ref="char:EOLhyphen"/>ed</hi> there, now I <hi>perceive,</hi> That this may be done without any the leaſt <hi>impeachment</hi> or violation of <hi>Heavenly goodneſs:</hi> And ſo from divers other <hi>in<g ref="char:EOLhyphen"/>ſtances,</hi> and by divers other <hi>Arguments,</hi> I might <hi>eaſily</hi> make it <hi>evident,</hi> That <hi>nothing</hi> in <hi>God,</hi> or from <hi>God,</hi> can juſtly <hi>occaſion</hi> any <hi>trouble</hi> or <hi>grief of heart</hi> to thoſe that are his <hi>People.</hi>
+            </p>
+            <p>
+               <note place="margin">Ten ſeveral Caſes, wherein our own igno<g ref="char:EOLhyphen"/>rance and folly diſcovers it ſelf about Provi<g ref="char:EOLhyphen"/>dential Admi<g ref="char:EOLhyphen"/>niſtrations.</note>But yet notwithſtanding there are ten <hi>ſpecial Caſes,</hi> wherein our own <hi>ignorance</hi> and <hi>folly</hi> does either cauſe <hi>miſcarriages,</hi> or elſe groundleſly occaſion very much <hi>ſorrow,</hi> and <hi>trouble,</hi> and <hi>grief</hi> of <hi>heart</hi> un<g ref="char:EOLhyphen"/>to us about <hi>Divine</hi> and <hi>Heavenly Diſpenſations.</hi>
+            </p>
+            <pb n="7" facs="tcp:117291:9"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Caſe. </seg>1</label> Firſt, in <hi>Caſe</hi> of <hi>outward Proſperity,</hi> wee'll begin with that <hi>firſt,</hi>
+               <note place="margin">Of outward proſperity propounded. Iob 10.3. and 29.6.</note> becauſe that's the <hi>Caſe</hi> of the <hi>Text</hi> here. When we ſee God at any time <hi>ſhining</hi> upon the <hi>Councels of the wicked,</hi> and <hi>waſhing their ſteps with butter,</hi> as <hi>Job</hi> ſpeaks of himſelf; when we ſee <hi>God</hi> caſting a great deal of <hi>Wealth,</hi> and <hi>Honor,</hi> and ſecular <hi>Preferment</hi> upon them, and in the mean time <hi>denying</hi> ſuch things unto his own <hi>People,</hi> this we are apt to <hi>ſtumble</hi> at, and to be <hi>offended</hi> by <hi>reaſon of it,</hi> and to <hi>think</hi> that <hi>God</hi> is herein more <hi>kinde</hi> to others, and more <hi>indulgent</hi> over them, then over his <hi>own People.</hi>
+               <note place="margin">
+                  <hi>Davids</hi> Caſe here</note> This was the ground of <hi>Davids</hi> trouble here in this Pſalm; at the 12 <hi>ver.</hi>
+               <note place="margin">V. 12.</note> 
+               <hi>The ungodly they proſper in the world, and they increaſe in riches: They are not in trouble, as other men;</hi>
+               <note place="margin">V. 5.</note> 
+               <hi>neither are they plagued like other men:</hi> But ſays he, <hi>As for my part, all the day long have I been plagued,</hi>
+               <note place="margin">V. 13.</note> 
+               <hi>and cha<g ref="char:EOLhyphen"/>ſtened every morning;</hi> and thereupon he was even <hi>ready</hi> to ſay, the <hi>words</hi> were at his <hi>tongues end,</hi> and he had much ado to refrain from <hi>ſaying,</hi> That <hi>he had cleanſed his heart in vain, and waſhed his hands in in<g ref="char:EOLhyphen"/>nocency.</hi>
+            </p>
+            <p>But now it is meerly our own <hi>ignorance</hi> and <hi>folly</hi> that cauſes us thus to <hi>miſconſtrue</hi> theſe <hi>dealings</hi> and <hi>diſpenſations</hi> of the <hi>Almighty.</hi> For I pray conſider,<note place="margin">Reſolved.</note> is it any <hi>prejudice</hi> to Believers, that God keeps them <hi>low</hi> in this world, <hi>purpoſely</hi> to wean them from it, and to fit them thereby for a better world? Or is it any <hi>priviledge</hi> to others, to be put into <hi>large Pa<g ref="char:EOLhyphen"/>ſtures</hi> here below, on <hi>purpoſe</hi> to be <hi>fitted,</hi> and <hi>fatted</hi> thereby for the <hi>day of ſlaughter and deſtruction?</hi>
+               <note place="margin">Ioh 21.30.</note> Con<g ref="char:EOLhyphen"/>ſider of it, and then tel us whether the <hi>former</hi> be any <hi>prejudice</hi> to <hi>Saints,</hi> or the <hi>latter</hi> any <hi>priviledge</hi> to <hi>ſin<g ref="char:EOLhyphen"/>ners.</hi>
+            </p>
+            <pb n="8" facs="tcp:117291:10"/>
+            <p>Beſides, we <hi>know</hi> that a little in <hi>love</hi> (from <hi>God</hi> eſpecially) is better then a <hi>great deal</hi> in <hi>wrath,</hi> and in <hi>anger;</hi>
+               <note place="margin">Artabazus apud Xenophon:</note> as he ſaid in the <hi>Story,</hi> That the <hi>Kiſs</hi> the King gave to another, was better then the <hi>Golden Cup</hi> that he gave to him: And as we know that a ſmal <hi>quan<g ref="char:EOLhyphen"/>tity</hi> of <hi>Silver,</hi> is better then a far greater <hi>quantity</hi> of <hi>Copper,</hi> or <hi>Braſs,</hi> or <hi>Iron;</hi> So ſays the Pſalmiſt, even <hi>A little that a righteous man hath,</hi>
+               <note place="margin">Plus percipit boni juſtus unicus, quam omnes ſimul improbi, ex cunctis facultatibus ſuis. <hi>Iun. in Loc.</hi> Juſtus facultatibus exiguis contentus, faelicior eſt improbo ditiſſimo. <hi>Vat.</hi>
+               </note> 
+               <hi>it is better then the riches of many wicked,</hi> Pſal. 37.16.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Caſe. </seg>2</label> Secondly, Another <hi>Caſe</hi> wherein our own <hi>igno<g ref="char:EOLhyphen"/>rance</hi> and <hi>folly</hi> diſcovers it ſelf,<note place="margin">Of Inequality.</note> and <hi>troubles</hi> us, and <hi>cauſes</hi> us to be much <hi>offended,</hi> it is in caſe of <hi>diſpro<g ref="char:EOLhyphen"/>portion,</hi>
+               <note place="margin">Prop.</note> or very <hi>much inequality:</hi> As when we ſee the <hi>Adverſaries of Judah</hi> to be <hi>many,</hi> very <hi>numerous</hi> and many,<note place="margin">Iſa. 11.13.</note> 
+               <hi>Ephraim againſt Manaſſeh,</hi> and <hi>Manaſſeh againſt Ephraim,</hi>
+               <note place="margin">9.21.</note> but <hi>both againſt Judah;</hi> When we ſee whole <hi>multitudes plotting,</hi> and <hi>combining againſt a few,</hi> and thoſe multitudes <hi>appearing</hi> in themſelves, and in outward reſpects, to be far <hi>bigger,</hi> and <hi>broad<g ref="char:EOLhyphen"/>er,</hi> and <hi>wiſer,</hi> and <hi>ſtronger,</hi> then ſuch as do <hi>with<g ref="char:EOLhyphen"/>ſtand</hi> them; When we ſee a multitude of <hi>Lyons,</hi> as it were, <hi>intending</hi> themſelves againſt a <hi>few ſilly Lambs,</hi> this frequently cauſes <hi>fears,</hi> and <hi>faintings,</hi> and <hi>deſpondencies,</hi> and many <hi>miſcarriages</hi> in the world.</p>
+            <p>
+               <note place="margin">Reſ.</note>But this alſo <hi>diſcovers</hi> too much <hi>weakneſs,</hi> and <hi>folly,</hi> and <hi>incogitancy;</hi> for they that have <hi>God with them,</hi> although they be <hi>never ſo few,</hi> they can never <hi>be too few:</hi> for its all one <hi>with God to ſave with many,</hi> or <hi>with thoſe that have no might;</hi>
+               <note place="margin">2 Chro. 14.11.</note> and he once com<g ref="char:EOLhyphen"/>plained
+<pb n="9" facs="tcp:117291:10"/> in <hi>Gideons</hi> caſe,<note place="margin">
+                  <hi>Iudg. 7.2.</hi> Etiam cúm vin<g ref="char:EOLhyphen"/>citur multis mi<g ref="char:EOLhyphen"/>litibus victoria eſt a Deo: At id non ita fit perſpicuum ſicu<g ref="char:EOLhyphen"/>ti quando cum PARVA MANU hoſtes Profligantur: <hi>Pet. Mart. in Loc.</hi>
+               </note> That there were <hi>too many for him to give Iſrael the day;</hi> but he never <hi>complains</hi> that he hath <hi>too few:</hi> God can never be at a loſs, or any loſer that way: for <hi>the leſs of the creature, the more of himſelf ſtill in all great enterprizes,</hi> whoſe <hi>Grace is ſufficient for us,</hi> and who <hi>delights</hi> to ſhew forth his <hi>own great Power,</hi> in <hi>our great weakneſs; My Grace</hi> (ſays he to <hi>Paul) is ſufficient for thee;</hi> for <hi>my power is made perfect in weakneſs,</hi> 2 Cor. 12.9.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Caſe. </seg>3</label> Thirdly, <hi>Another Caſe,</hi> wherein our own <hi>igno<g ref="char:EOLhyphen"/>rance</hi> and <hi>folly</hi> diſcovers it ſelf, and <hi>troubles</hi> us, and is <hi>apt</hi> to cauſe <hi>miſcarriages,</hi> it is <hi>in caſe of ſome very great Extremity:</hi>
+               <note place="margin">Of ſome great extremity.</note> 
+               <note place="margin">Prop.</note> As when <hi>Pharoah</hi> had gotten the poor <hi>Iſraelites</hi> at that mighty <hi>advantage,</hi> that they had <hi>nothing</hi> but the <hi>Red Sea</hi> before them,<note place="margin">Animo &amp; cor<g ref="char:EOLhyphen"/>pore anxii pro<g ref="char:EOLhyphen"/>pter hoſtem pro<g ref="char:EOLhyphen"/>pinquum ejula<g ref="char:EOLhyphen"/>runt potius quam invoca<g ref="char:EOLhyphen"/>runt fide. <hi>Iun. in Loc.</hi>
+               </note> and <hi>him</hi> and his <hi>Hoſt</hi> behinde them, then they began to be very <hi>much afraid,</hi> and <hi>to cry out unto God,</hi> and to ſay unto <hi>Moſes, Becauſe there were no Graves in Egypt, haſt thou taken us away, to dye in the wilderneſs? Where<g ref="char:EOLhyphen"/>fore haſt thou dealt thus with us? It had been better for us to ſerve the Egyptians,</hi> &amp;c. Exod. 14.11, 12.</p>
+            <p>But now this alſo <hi>bewrays</hi> too much <hi>Ignorance</hi> and <hi>folly amongſt</hi> us, too much <hi>weakneſs</hi> a great deal,<note place="margin">
+                  <hi>Reſ.</hi> Murmur ad<g ref="char:EOLhyphen"/>verſus Deum, non excuſatur periculis immi<g ref="char:EOLhyphen"/>nentibus ubi potiſſimúm Di<g ref="char:EOLhyphen"/>vinae Bonitatis memoria vigere debcat. <hi>Muſcul. in Pſal. 106. Gen. 22.14.</hi>
+               </note> to be inordinately <hi>fearful</hi> in <hi>caſe of any great extre<g ref="char:EOLhyphen"/>mity;</hi> for God by his <hi>Providence</hi> brings his People into <hi>ſtraits,</hi> and <hi>difficulties</hi> and <hi>dangers,</hi> on <hi>purpoſe</hi> many times to <hi>take occaſion</hi> from thence to <hi>magnifie</hi> his own <hi>great Power,</hi> and <hi>Wiſdom,</hi> and <hi>Goodneſs</hi> to<g ref="char:EOLhyphen"/>wards them in their <hi>Deliverance. Saints extremities are Gods opportunities,</hi> and in the Mount of <hi>Straits</hi> will he be ſeen. And <hi>evermore</hi> ye ſhall obſerve a<g ref="char:EOLhyphen"/>mongſt <hi>them</hi> among the <hi>People of God,</hi>
+               <note place="margin">Note.</note> That when there is but <hi>A little danger,</hi> then there's but <hi>A little
+<pb n="10" facs="tcp:117291:11"/> Deliverance,</hi> and when there is <hi>A great danger,</hi> then there's <hi>A great deliverance</hi> in the womb of <hi>that danger:</hi> And <hi>God</hi> hath more <hi>ways</hi> then one to <hi>ſave</hi> his <hi>People</hi> by, he can do it either <hi>by</hi> means, or <hi>with<g ref="char:EOLhyphen"/>out</hi> means, or <hi>above</hi> means, or <hi>contrary</hi> to means, as ye have been often <hi>taught</hi> and <hi>told.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Caſe. </seg>4</label> Fourthly, <hi>Another Caſe</hi> wherein our own <hi>igno<g ref="char:EOLhyphen"/>rance</hi> and <hi>folly</hi> diſcovers it ſelf,<note place="margin">Of very much unworthineſs. Prop.</note> and troubles us, it is <hi>in caſe of very much unworthineſs</hi> felt and <hi>appre<g ref="char:EOLhyphen"/>hended</hi> by us. Thus many poor <hi>creatures</hi> reaſon a<g ref="char:EOLhyphen"/>gainſt <hi>themſelves,</hi> and think, That <hi>Mercy</hi> belongs not to them, That <hi>Free-grace</hi> cannot ſave them, be<g ref="char:EOLhyphen"/>cauſe of that infinite <hi>unſpeakable</hi> vileneſs that they are now experimentally made <hi>acquainted</hi> with<g ref="char:EOLhyphen"/>all: And this alſo <hi>cauſes</hi> much <hi>diffidence</hi> in other <hi>re<g ref="char:EOLhyphen"/>ſpects,</hi> amongſt <hi>many,</hi> when they have prayed for <hi>mercies,</hi> they know not how to <hi>believe</hi> that ever they ſhall <hi>receive</hi> thoſe mercies, becauſe of that <hi>infi<g ref="char:EOLhyphen"/>nite</hi> diſproportion that they <hi>finde,</hi> between the great <hi>mercies</hi> of God, and their own preſent <hi>temper,</hi> of very much <hi>unworthineſs.</hi>
+            </p>
+            <p>
+               <note place="margin">Reſ.</note>But here alſo <hi>we are to note,</hi> That although it be <hi>very good,</hi> and <hi>very neceſſary</hi> for people to be <hi>ſenſible</hi> of, and <hi>experimentally</hi> acquainted with, <hi>their own great unworthineſs,</hi> yet this is but a very <hi>weak pre<g ref="char:EOLhyphen"/>tence;</hi> yea, to <hi>ſay the truth,</hi> it is but a very <hi>ignorant plea</hi> againſt the <hi>workings</hi> of God, for the <hi>good</hi> of his <hi>People:</hi> For when God hath a <hi>full intention</hi> to <hi>work,</hi> and to <hi>ſave,</hi> or to do any <hi>great thing</hi> for his <hi>People,</hi> it is not any <hi>unworthineſs</hi> of theirs that can <hi>poſsibly</hi> diſappoint, intercept or hinder him. Neither is God any way <hi>moved</hi> to <hi>pity,</hi> or to ſhew <hi>mercy</hi> by any ſuch <hi>matter,</hi> as the <hi>creatures worthineſs,</hi>
+               <pb n="11" facs="tcp:117291:11"/> which indeed <hi>is not;</hi> or if it were,<note place="margin">Etiam in meri<g ref="char:EOLhyphen"/>tis noſtris nulla fiducia collacan<g ref="char:EOLhyphen"/>da, quia nulla planè ſunt, pro<g ref="char:EOLhyphen"/>priè loquendo. <hi>Polan. Syntag. Theol. l. 9. c. 8.</hi> Gratia non eſt Gratia, niſi ſit omni modo gra<g ref="char:EOLhyphen"/>tuita. Solus Chriſtus pro nobis ſuſce<g ref="char:EOLhyphen"/>pit fine malis meritis paenam, ut nos per illum ſinc bonis meritis conſequerentur gratiam. <hi>Aug. contr. 2. Epiſt. Pelag. l. 4. c. 4.</hi>
+               </note> yet would it <hi>prove</hi> too weak a <hi>Loadſtone</hi> to attract or draw the <hi>infinite love</hi> of <hi>Almighty</hi> God towards it; and there<g ref="char:EOLhyphen"/>fore is the Scripture very clear for this, That what<g ref="char:EOLhyphen"/>ever God does for his <hi>People</hi> in a way of <hi>love,</hi> he does it <hi>freely;</hi> and nothing more free then his <hi>Grace: I will,</hi> ſays he, <hi>heal their backſlidings, loving them freely,</hi> Hoſ. 14.4. And <hi>not for your ſakes do I this, be it known unto you,</hi> ſays God: And therefore what<g ref="char:EOLhyphen"/>ever my <hi>ways</hi> are, in a way of loving kindeneſs and tender mercy towards you, yet ſtill be <hi>aſhamed and confounded for your own ways, O houſe of Iſrael,</hi> Ezek. 36.32.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Caſe. </seg>5</label> Fifthly, <hi>Another Caſe,</hi> wherein our own <hi>igno<g ref="char:EOLhyphen"/>rance</hi> and <hi>folly</hi> will be ſtirring to <hi>trouble</hi> us, and to cauſe <hi>miſcarriages,</hi> it is <hi>in caſe of aggravated ſinful<g ref="char:EOLhyphen"/>neſs:</hi>
+               <note place="margin">Of aggravated ſinfulneſs. Prop.</note> As now, that a <hi>perſon,</hi> or a <hi>people</hi> ſhould <hi>pro<g ref="char:EOLhyphen"/>voke</hi> God to the very <hi>day,</hi> to the very time and <hi>hour</hi> of their <hi>deliverance;</hi> nay, after he hath <hi>ſaved</hi> them, and <hi>delivered</hi> them over and over, and done <hi>very great things</hi> for them, that <hi>ſtill</hi> they ſhould go on to <hi>provoke</hi> him <hi>publikely, privately, ſecretly, variouſly, frequently,</hi> and that <hi>God</hi> ſhould <hi>ſtill</hi> go on to do <hi>good</hi> to ſuch a <hi>perſon,</hi> or to ſuch a <hi>people,</hi> and complete their <hi>deliverances</hi> for them; This is it that <hi>ſtaggers</hi> the knowledge, and the <hi>belief</hi> of many.</p>
+            <p>But for the <hi>ſtating</hi> of this alſo, to ſay indeed,<note place="margin">Reſ.</note> That God might <hi>juſtly</hi> not ſave, or not <hi>deliver</hi> ſuch a <hi>perſon,</hi> or ſuch a <hi>people</hi> any more, that have thus <hi>highly</hi> provoked him; to ſay,<note place="margin">Iudg. 10.13. Pſal. 95.11. Heb. 3.11.</note> That he might juſtly <hi>ſwear in his wrath</hi> againſt them, <hi>That they ſhall never enter into his reſt,</hi> in regard of their own <hi>ſinfulneſs</hi> and <hi>vileneſs,</hi> that's <hi>ſafe</hi> enough.</p>
+            <pb n="12" facs="tcp:117291:12"/>
+            <p>But to ſay that <hi>God cannot,</hi> or that <hi>God will un</hi> ſave ſuch a <hi>perſon,</hi> or ſuch a <hi>people,</hi> that <hi>ſavors</hi> of too much <hi>ignorance,</hi>
+               <note place="margin">
+                  <p>
+                     <hi>Rom. 5.20.</hi> Where ſin a<g ref="char:EOLhyphen"/>bounded, Grace did much more abound (<gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>) ſuperabundavit. <hi>Bez.</hi> magis exu<g ref="char:EOLhyphen"/>beravit: <hi>Eraſ.</hi> Bonitas invicti non vincitur, &amp; infinita miſcri<g ref="char:EOLhyphen"/>cordia non fini<g ref="char:EOLhyphen"/>tur. <hi>Fulgent.</hi> Ais mihi; pec<g ref="char:EOLhyphen"/>cata peccatis adjeci, &amp; qui jam cadens ere<g ref="char:EOLhyphen"/>ctus fucram ite<g ref="char:EOLhyphen"/>rum cecidi: &amp; conſcientiae meae vulnus jam pene curatum exulce<g ref="char:EOLhyphen"/>ratione recru<g ref="char:EOLhyphen"/>duit: Quid tre<g ref="char:EOLhyphen"/>pidas? Quid ve<g ref="char:EOLhyphen"/>rcris? Idem ſemper eſt qui ante curavit medicum non mutabis: expe<g ref="char:EOLhyphen"/>rimentum adju<g ref="char:EOLhyphen"/>torii non expe<g ref="char:EOLhyphen"/>ctat, qui tan<g ref="char:EOLhyphen"/>guoris tui novit originem: Unde dudum curatus fueras, inde iterum curaberis. <hi>Ambroſ. lib. de Paenit. cap. 12. ad init.</hi>
+                  </p>
+                  <p>Cogita ſcintillam ſi in mare ceciderit, non poterit ſtare, aut apparere<g ref="char:punc">▪</g> Quantum ſcin<g ref="char:EOLhyphen"/>tilla ad mare ſe habet tantum hominis malitia, ad Dei clementiam imò non tantum modo, ſed &amp; longè ſuprà: Nam &amp; Pelagus tametſi magnum ſit menſuram recipit: Dei vero elementia [ſive miſcricordia] menſuram non habet. <hi>Chryſoſt. de Paenit. Hom. 3.</hi>
+                  </p>
+               </note> and that they know not the <hi>Scri<g ref="char:EOLhyphen"/>ptures</hi> that reaſon on this maner; for this of old was juſt the <hi>Iſraelites caſe,</hi> they had ſufficiently <hi>provoked God, before</hi> they were <hi>delivered</hi> out of <hi>Egypt,</hi> and <hi>after</hi> they were <hi>delivered</hi> too, when <hi>Pharaoh</hi> purſued them to the very <hi>brink</hi> of the <hi>Red Sea,</hi> and put them to that great <hi>hazard</hi> there, which we ſpake of <hi>afore</hi> to you; juſt there, at the <hi>very brink</hi> of the <hi>Red Sea, when God</hi> was about, and <hi>where</hi> he was about, to work out the greateſt <hi>deliverance</hi> for them; <hi>Then,</hi> and <hi>There</hi> did they <hi>provoke</hi> him to his <hi>very face,</hi> and ſin moſt <hi>deſperately</hi> againſt him. So the Pſalmiſt confeſſes, <hi>Pſal.</hi> 106.7, 8 <hi>Our fathers underſtood not thy wonders in Egypt, they remembred not the multitude of thy mercies; But provoked him at the Sea, even at the Red Sea:</hi> And what then? what followed there<g ref="char:EOLhyphen"/>upon? Did not <hi>God</hi> drown them in the <hi>Red-Sea,</hi> for this high <hi>provocation</hi> of theirs? No, ſays the Pſalmiſt, though they <hi>provoked</hi> him at the <hi>Sea,</hi> and even at the <hi>Red-Sea,</hi> yet <hi>Nevertheleſs he ſaved them for his Names ſake, that he might make his mighty power to be known: He rebuked the Red-Sea alſo, and it was dryed up, and he led them through the depths, as through the wilderneſs.</hi>
+            </p>
+            <pb n="13" facs="tcp:117291:12"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Caſe. </seg>6</label> Sixthly, <hi>Another Caſe,</hi> wherein our own <hi>ignorance</hi> and <hi>folly diſcovers</hi> it ſelf, and <hi>troubles</hi> us, it is <hi>in caſe of outward meanneſs:</hi>
+               <note place="margin">Of outward meanneſs. Prop.</note> As when we ſee <hi>God</hi> paſſing by thoſe <hi>Inſtruments,</hi> that to us ſeem <hi>moſt likely,</hi> and <hi>moſt worthy to be uſed,</hi> and making <hi>choyce</hi> of other <hi>Inſtruments,</hi> that to us ſeem <hi>moſt unlikely,</hi> and <hi>un<g ref="char:EOLhyphen"/>worthy to be uſed,</hi> how <hi>apt</hi> are <hi>men</hi> in ſuch <hi>caſes</hi> to <hi>deſpiſe the day of ſmall things?</hi> To <hi>ſcorn,</hi>
+               <note place="margin">Zech. 4, 10.</note> 
+               <hi>re<g ref="char:EOLhyphen"/>proach,</hi> and <hi>calumniate</hi> the great <hi>works</hi> of God in the world, upon this very <hi>ground,</hi> becauſe <hi>maintained,</hi> and <hi>upheld,</hi> and <hi>carryed</hi> on, by ſuch <hi>Inſtruments</hi> as are to them ſo <hi>deſpicable,</hi> that they <hi>know not</hi> how ei<g ref="char:EOLhyphen"/>ther to <hi>think</hi> well of them, or to <hi>ſpeak</hi> well of them; at this very <hi>day</hi> this lies as a very <hi>great ſtumbling block</hi> in the way of many.</p>
+            <p>But let us herein alſo be <hi>aſhamed</hi> of our own <hi>ig<g ref="char:EOLhyphen"/>norance</hi> and <hi>folly,</hi> and <hi>know,</hi>
+               <note place="margin">
+                  <hi>Reſ.</hi> Tunc verò po<g ref="char:EOLhyphen"/>tiſſunùm clucet Dei Potentia illa omnem ca<g ref="char:EOLhyphen"/>ptum humanum ſuperans, cúm vel agit ipſe quidpiam <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, vel infirmiſſimis inſtrumentis ad res maximas perficiendas utitur. <hi>Beza in 2 Cor. 12.9.</hi>
+               </note> That <hi>God (the wiſe and the holy God)</hi> he <hi>delights</hi> to bring <hi>great</hi> and <hi>mighty</hi> things to paſs, by very <hi>unworthy,</hi> and very <hi>unlikely</hi> Inſtruments, and ſuch as men <hi>deſpiſe,</hi> to the <hi>end,</hi> that his own <hi>Power,</hi> and <hi>Wiſdom,</hi> and <hi>Goodneſs,</hi> and <hi>Glory,</hi> may be ſo much the more <hi>conſpicuous,</hi> and <hi>apparent<g ref="char:EOLhyphen"/>ly</hi> viſible in <hi>what he does.</hi>
+            </p>
+            <p>And therefore, O the <hi>ſeverity,</hi> the great <hi>ſeverity</hi> of that <hi>paſſage</hi> or <hi>ſentence</hi> from the <hi>Apoſtles</hi> own <hi>mouth,</hi> 1 <hi>Cor.</hi> 1.26. <hi>Ye ſee your calling, Brethren, how that not many wiſe men after the fleſh, not many mighty, not many noble are called: But,</hi> ſays he, <hi>God hath choſen the fooliſh things of the world, to confound the wiſe; and God hath choſen the weak things of the world, to confound the things which are mighty; and baſe things of the world, and things which are deſpiſed hath God choſen; yea, and things which are not, to bring to nought the things
+<pb n="14" facs="tcp:117291:13"/> which are,</hi>
+               <note place="margin">Quidnam eaquae non ſunt appel<g ref="char:EOLhyphen"/>lat? eos ſcilicet qui nibil ſe ar<g ref="char:EOLhyphen"/>bitrantur pro<g ref="char:EOLhyphen"/>pter nimian eo<g ref="char:EOLhyphen"/>rum exiguita<g ref="char:EOLhyphen"/>tem. Sic incre<g ref="char:EOLhyphen"/>dibilem ſignifi<g ref="char:EOLhyphen"/>cavit <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> cúm per eos qui nihil eſſe videbantur, magnos ſubigeret, <hi>Chryſoſt. in loc.</hi>
+               </note> 
+               <hi>that no fleſh might glory in his preſence, but that he that glories might</hi> henceforth learn to <hi>glory</hi> in that <hi>Chriſt</hi> alone, <hi>who of God</hi> is made and <hi>appoint<g ref="char:EOLhyphen"/>ed to be,</hi> even <hi>All in All</hi> unto us (<hi>Wiſdom, Righteouſ<g ref="char:EOLhyphen"/>neſs, Sanctification,</hi> and <hi>Redemption</hi>) as it there fol<g ref="char:EOLhyphen"/>lows in the concluſion of that Chapter.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Caſe. </seg>7</label> Seventhly, <hi>Another Caſe,</hi> wherein our own <hi>igno<g ref="char:EOLhyphen"/>rance</hi> and <hi>folly</hi> is very <hi>apt</hi> to <hi>trouble</hi> us, and to cauſe <hi>miſcarriages,</hi> it is <hi>in caſe of ſome carnal diſappointment of ours:</hi>
+               <note place="margin">Of Carnal diſappoint<g ref="char:EOLhyphen"/>ment. Prop.</note> As thus, when <hi>God</hi> is <hi>pleaſed</hi> at any time to <hi>ſtir</hi> up promiſing <hi>Inſtruments</hi> to do us <hi>good,</hi> men that we <hi>hope</hi> will <hi>act</hi> for us, and be a <hi>means</hi> to <hi>deli<g ref="char:EOLhyphen"/>ver</hi> us from all <hi>maner</hi> of baſe <hi>bondages,</hi> and unwor<g ref="char:EOLhyphen"/>thy <hi>ſlaveries</hi> whatſoever; in ſuch a <hi>caſe,</hi> how <hi>apt</hi> are we to <hi>Idolize</hi> ſuch men, and ſuch <hi>means,</hi> and to put more <hi>confidence</hi> in them, then in that <hi>God</hi> that uſes them, and that <hi>imploys</hi> them, and without whom, <hi>they can of themſelves do nothing.</hi>
+            </p>
+            <p>And when we have leaned ſo hard upon theſe Staves, that they begin to <hi>crack,</hi> and <hi>break</hi> under the <hi>weight</hi> of our Carnal <hi>Confidence,</hi> then, when <hi>The Staff of Beauty and Bands</hi> is thus far broken,<note place="margin">Zech. 11.10, 11</note> our <hi>hearts</hi> begin to <hi>flag</hi> and to <hi>fail</hi> us, and the <hi>Staff of our Hopes</hi> that breaks too; and <hi>ſo fooliſh are we, and ignorant,</hi> as to conclude, That becauſe we have not <hi>deliverance</hi> in this <hi>way,</hi> that <hi>therefore</hi> we ſhall never have it in any other <hi>way;</hi> or becauſe <hi>God comes not</hi> juſt at our <hi>time,</hi> therefore we are apt to <hi>conclude,</hi> That he will alſo <hi>fail us</hi> at his own <hi>time,</hi> which he never <hi>does,</hi> and which is evermore <hi>the beſt time.</hi>
+               <note place="margin">Gods time the beſt time.</note>
+            </p>
+            <p>
+               <note place="margin">Reſ.</note>And therefore our <hi>wiſdom</hi> would be, <hi>patiently</hi>
+               <pb n="15" facs="tcp:117291:13"/> and <hi>quietly</hi> to wait upon <hi>God,</hi> and not to <hi>limit</hi> or confine him, either unto <hi>Times,</hi> or unto <hi>Means,</hi>
+               <note place="margin">Iſa. 30.1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Lam. 3.26. Hab. 2.3. Heb. 10.36, 37 Pſal. 27.14. Rom. 4.18.</note> but to leave it wholly unto <hi>himſelf,</hi> and unto his own <hi>free diſpoſition,</hi> to do us good both <hi>when</hi> he pleaſes, and <hi>how</hi> he pleaſes, and by <hi>what</hi> means he pleaſes; and ſo we ſhall both <hi>free</hi> our ſelves from a great deal of <hi>trouble,</hi> and give God the <hi>Glory</hi> that is due unto his <hi>Name,</hi> upon all ſuch like occaſions.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Caſe. </seg>8</label> Eighthly, <hi>Another Caſe,</hi> wherein our own <hi>igno<g ref="char:EOLhyphen"/>rance and folly</hi> is very <hi>apt</hi> to <hi>trouble</hi> us, and to cauſe <hi>miſcarriages,</hi> it is <hi>in caſe of Humane Improbability:</hi>
+               <note place="margin">Of Humane improbability.</note> Very <hi>apt</hi> we are to <hi>meaſure God by our ſelves,</hi>
+               <note place="margin">Prop.</note> and to <hi>conclude,</hi> That becauſe we cannot do ſuch a thing <hi>our ſelves,</hi> nor the <hi>Creatures</hi> for us, that therefore <hi>God</hi> cannot do it neither: I might give you many <hi>Inſtances</hi> for this;<note place="margin">Inſtances of this.</note>
+            </p>
+            <p>You may ſee it firſt in <hi>Moſes,</hi> an eminent Belie<g ref="char:EOLhyphen"/>ver, <hi>Numb.</hi> 11. from the 18 <hi>ver.</hi>
+               <note place="margin">1. In Moſes. Num. 11. v. 18. &amp;c.</note> and ſo on; when God had told <hi>Moſes</hi> there, That he would give the <hi>People</hi> fleſh to <hi>eat,</hi> not for one <hi>day,</hi> or two <hi>days,</hi> or five <hi>days,</hi> or ten, or twenty <hi>days,</hi> but for a whole <hi>Moneth</hi> together: Says <hi>Moſes</hi> to God upon this, <hi>The people amongst whom I am are very many,</hi>
+               <note place="margin">V. 21.</note> they are no leſs then <hi>Six hundred thouſand footmen, and thou haſt ſaid, I will give them fleſh to eat for a whole moneth together:</hi> But <hi>Bleſſed Lord,</hi> ſays <hi>Moſes, How ſhall this be done?</hi>
+               <note place="margin">V. 22.</note> 
+               <hi>Shall the flocks and the herds be ſlain for them to ſuffice them? Or ſhall all the fiſh of the Sea be gathered together for them to ſuffice them?</hi> Here was <hi>unbelief</hi> now, &amp; a meaſuring of <hi>Gods power</hi> thereby, according to the <hi>Creatures power;</hi> a <hi>ſhort<g ref="char:EOLhyphen"/>ning</hi> of the Divine power, or a <hi>ſhrivelling up,</hi> as it were, of the <hi>Everlaſting Arm</hi> of God, according
+<pb n="16" facs="tcp:117291:14"/> to the rate of <hi>Humane Improbabilities;</hi> as may appear <hi>plainly</hi> by the words that follow, <hi>And the Lord ſaid unto Moſes,</hi>
+               <note place="margin">V. 23.</note> 
+               <hi>Is the Lords hand waxed ſhort? Thou ſhalt ſee now whether my word ſhall come to paſs unto thee, or not.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Inſt. </seg>2</label> And ſo when <hi>Eliſha</hi> propheſied that great <hi>plenty</hi> in the gate of <hi>Samaria,</hi> 2 King. 7. That <hi>Lord</hi> there ſpoken of,<note place="margin">In that great man ſpoken of, 2 Kings 7.</note> on whoſe <hi>hand,</hi> the <hi>King leaned,</hi> He <hi>anſwered</hi> the man of God, and ſaid, <hi>Behold, if the Lord ſhould make windows in heaven, might this thing be?</hi> which thing ye know did afterwards come to paſs, and he that <hi>queſtioned</hi> it, was trod to <hi>death,</hi> becauſe he did not <hi>believe</hi> it, 2 <hi>King.</hi> 7.20.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Inſt. </seg>3</label> And in like maner did they alſo reaſon, that are ſpoken of in <hi>Pſal.</hi> 78.<note place="margin">Pſal. 78.</note> 
+               <hi>Can God furniſh a table in the wilderneſs,</hi> ſay they? <hi>Behold, he ſmote the ſtony Rock indeed, and the waters guſhed out, and the ſtreams over<g ref="char:EOLhyphen"/>flowed; But can he give bread alſo? Can he provide fleſh for his people?</hi> Thus <hi>fooliſh,</hi> and <hi>weak,</hi> and <hi>ignorant</hi> are we, in meaſuring <hi>Gods ſtrength</hi> by <hi>our own ſtrength,</hi> and Gods <hi>power</hi> by our <hi>own,</hi> when left unto our ſelves.</p>
+            <p>
+               <note place="margin">Reſ.</note>Not <hi>conſidering,</hi> That what is <hi>Impoſsible with men, is poſsible with God;</hi>
+               <note place="margin">Matth. 19.26.</note> and that what cannot be <hi>done</hi> by us, may yet <hi>very eaſily</hi> be done by him, who is not onely <hi>Potent,</hi> but <hi>Omnipotent;</hi> not onely <hi>Migh<g ref="char:EOLhyphen"/>ty,</hi> but <hi>Almighty.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Caſe. </seg>9</label> Ninthly, <hi>Another Caſe,</hi> wherein our own <hi>igno<g ref="char:EOLhyphen"/>rance</hi> and <hi>folly</hi> diſcovers it ſelf, it is <hi>in caſe of outward Impunity:</hi>
+               <note place="margin">Of outward Impunity. Prop.</note> Men are <hi>apt</hi> to <hi>imagine,</hi> That becauſe <hi>Divine Vengeance</hi> does not preſently <hi>ſeize</hi> upon them, ſo ſoon as ever they have <hi>offended;</hi> becauſe <hi>ſin</hi> and <hi>ſorrow</hi> do not <hi>immediately</hi> ſucceed one any
+<pb n="17" facs="tcp:117291:14"/> other, take one another by the <hi>heel,</hi>
+               <note place="margin">Gen. 25.26.</note> as <hi>Jacob</hi> did <hi>Eſau,</hi> therefore they are <hi>apt</hi> to <hi>think,</hi> and to <hi>con<g ref="char:EOLhyphen"/>clude.</hi> That they may ſtill <hi>go on</hi> to do what they <hi>liſt themſelves,</hi> and that they never need <hi>fear</hi> being <hi>cal<g ref="char:EOLhyphen"/>led</hi> to a <hi>Reckoning,</hi> or to an <hi>Account</hi> for any thing: <hi>Becauſe ſentence againſt an evil work is not executed ſpeedily,</hi> ſays <hi>Solomon,</hi>
+               <note place="margin">Hoc magiſtra<g ref="char:EOLhyphen"/>tus Admonear nè paenam ſcele<g ref="char:EOLhyphen"/>ribus Juſtam &amp; debitam differant, niſi velint terram ſcelerum veluti diluvio obrui. <hi>Cartwr. in Loc.</hi>
+               </note> 
+               <hi>therefore the hearts of the ſons of men is fully ſet in them to do evil,</hi> Eccleſ. 8.11.</p>
+            <p>Whereas Divine <hi>Wiſdom,</hi>
+               <note place="margin">Reſ.</note> that would <hi>teach men</hi> otherwiſe, and make them to <hi>underſtand</hi> and know, <hi>That Gods forbearance is no acquittance in caſe of Im<g ref="char:EOLhyphen"/>penitency:</hi>
+               <note place="margin">Quod defertur non aufertur.</note> But that he hath his <hi>times</hi> of <hi>Reckoning</hi> with all men, and thoſe times are <hi>ſtated</hi> too, <hi>ſet, pre determined;</hi> and look what one <hi>Executioner</hi> either <hi>cannot</hi> do, or <hi>will not</hi> do, that another <hi>ſhall</hi> do: And therefore, though <hi>Agag</hi> thought, That the <hi>bitter<g ref="char:EOLhyphen"/>nes of death had been paſt,</hi> when <hi>Saul</hi> refuſed to <hi>meddle</hi> with him, yet he was <hi>deceiv'd,</hi>
+               <note place="margin">
+                  <hi>Agag</hi> hewed in pieces by <hi>Samuel,</hi> though ſpared by <hi>Saul,</hi> 1 Sam. 15.</note> for whe<g ref="char:cmbAbbrStroke">̄</g> 
+               <hi>Samuel</hi> comes to <hi>deal</hi> with him, he goes <hi>roundly</hi> to work, and <hi>hews him in pieces before the Lord in Gilgal,</hi> 1 Sam. 15.23.</p>
+            <p>And although <hi>Joab</hi> and <hi>Shimei</hi> did both <hi>eſcape</hi> unpuniſhed all the <hi>days</hi> of <hi>David,</hi> yet when <hi>David</hi> drew nigh to his <hi>end,</hi> he <hi>calls</hi> for his Son <hi>Solomon,</hi> that was to <hi>ſucceed</hi> him, &amp; <hi>gives</hi> him a ſpecial <hi>charge</hi> concerning thoſe two <hi>men; Thou haſt with thee,</hi> ſays he, <hi>two ſuch men, Joab and Shimei,</hi>
+               <note place="margin">
+                  <hi>Joab</hi> and <hi>Shi<g ref="char:EOLhyphen"/>mei</hi> cut off by <hi>Solomon,</hi> though both unpuniſhed all the days of <hi>David,</hi> 1 K. 2.</note> and thou <hi>knoweſt</hi> what kinde of men they have been, how <hi>Bold</hi> they have been, and how <hi>Bitter</hi> they have been, and how <hi>Bloody</hi> they have been, and <hi>therefore, do thou unto them according to thy wiſdom, and let not their hoar heads go down to the grave in peace,</hi> 1 Kings 2.</p>
+            <pb n="18" facs="tcp:117291:15"/>
+            <p>And the Apoſtle <hi>ſpeaks</hi> of ſome <hi>whoſe judgement now for a long time lingers not,</hi>
+               <note place="margin">Some under the Goſpel whoſe judgement lingers not, neither does their perdition ſlumber.</note> 
+               <hi>and whoſe damna<g ref="char:EOLhyphen"/>tion ſlumbreth not,</hi> 2 Pet. 2.3. <hi>that is,</hi> It always <hi>lies at the door,</hi> It is always <hi>awake,</hi> and never <hi>aſleep;</hi> yea, he ſays, that it neither <hi>ſleeps nor ſlambers,</hi> but is al<g ref="char:EOLhyphen"/>ways in the <hi>greateſt readineſs</hi> to come and <hi>ſeize</hi> upon them, whenſoever God <hi>appoints,</hi> or gives it a <hi>Com<g ref="char:EOLhyphen"/>mand</hi> to do ſo.</p>
+            <p>
+               <note place="margin">10 <hi>Caſe.</hi> Of Divine So<g ref="char:EOLhyphen"/>veraignty.</note>Tenthly and laſtly, <hi>Another Caſe,</hi> wherein our own <hi>ignorance</hi> and <hi>folly</hi> diſcovers it ſelf, and is apt to cauſe <hi>miſcarriages,</hi> it is <hi>in caſe of Divine Sove<g ref="char:EOLhyphen"/>raignty:</hi>
+               <note place="margin">Prop.</note> As thus ſome <hi>argue</hi> againſt the very <hi>Decrees</hi> and eternal <hi>purpoſes</hi> of Almighty God, that would <hi>meaſure</hi> every thing that is <hi>ſaid</hi> to iſſue from <hi>God,</hi>
+               <note place="margin">Sic de Dei de<g ref="char:EOLhyphen"/>cretis Philoſo<g ref="char:EOLhyphen"/>phantur, ac ſi ex<g ref="char:EOLhyphen"/>igenda eſſent haec inſcrutabi<g ref="char:EOLhyphen"/>lia, ad rationis humanae decem pedam: At<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> hinc iſtae impa<g ref="char:EOLhyphen"/>ctae Calviniſtis Blaſphemiae illos quodvis flagitium afonte Bonitatis arceſſere: illos Deum Tiberio truculentiorem, &amp; Diabolo (horrendum dictu) nequiorem efficere. <hi>Dr. Prid. de Abſ. Dec. 1: Lect.</hi>
+               </note> by the <hi>Line of Humane Reaſon:</hi> what ſay they, Caſt men away by <hi>abſolute irreſpective Decrees,</hi> be<g ref="char:EOLhyphen"/>fore ever they had any <hi>being,</hi> before ever <hi>they knew how</hi> to do either <hi>good or evil;</hi> what a cruel <hi>unreaſon<g ref="char:EOLhyphen"/>able thing</hi> is that? Thus your <hi>Arminian Doctors</hi> are wont to argue in their <hi>Writings.</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>Reſ.</hi> Voluit igitur Deus in homini<g ref="char:EOLhyphen"/>bus quantum ad aliquos quos praedeſtinat ſu<g ref="char:EOLhyphen"/>am repreſentare Bonitatem per modum miſcri<g ref="char:EOLhyphen"/>cordiae parcendo, Et quantum ad aliquos quos reprobat, per modum juſtitiae puniendo, &amp; haec eſt ratio quare quoſdam eligit, &amp; quoſdam reprobat &amp; quare hos elegit in gloriam, &amp; illos reprobavit, non habet rationem, niſi divinam voluntatem. <hi>Aquin. 1 part. Sum. Theol.</hi> Qu. <hi>23. Art. 5.</hi> Ita <hi>Zanch. de Nat<g ref="char:punc">▪</g> Dei. lib. 5. cap. 2. Whitak. Tom. 1. oper. p. 693.</hi> &amp; Alii.</note>
+               <hi>But fooliſh vain man,</hi> ſays the Apoſtle, <hi>who art thou that diſputeſt againſt God on this maner? ſhall the thing formed ſay unto him that formed it, Why haſt thou made me thus?</hi> Hath not <hi>God</hi> the ſame <hi>power</hi> over the <hi>crea<g ref="char:EOLhyphen"/>ture,</hi> that the <hi>Potter</hi> hath over the <hi>clay,</hi> to make one veſſel to <hi>honor,</hi> another to <hi>diſhonor</hi> at his <hi>pleaſure?</hi> Rom. 9.20, 21.</p>
+            <pb n="19" facs="tcp:117291:15"/>
+            <p>And ſo in <hi>Gods diſpoſing</hi> of mens outward <hi>Eſtates</hi> and conditions,<note place="margin">Men not ſa<g ref="char:EOLhyphen"/>tisfied with the Divine So<g ref="char:EOLhyphen"/>veraignty of God in the diſpoſition of their outward eſtates and conditions.</note> how do they <hi>therein</hi> alſo <hi>murmure</hi> and <hi>repine</hi> at the <hi>Divine Soveraignty</hi> of <hi>God?</hi>
+            </p>
+            <p>If <hi>God</hi> give men <hi>abundance</hi> of outward favors, <hi>Peace,</hi> and <hi>Plenty,</hi> and <hi>Liberty,</hi> and <hi>Proſperity;</hi> if he ſtill go on to heap <hi>Mercy</hi> upon <hi>Mercy,</hi> and <hi>Bleſsing</hi> upon <hi>Bleſsing, Victory</hi> upon <hi>Victory,</hi> and <hi>Deliverance</hi> upon <hi>Deliverance,</hi> then perhaps he ſhall have ſome ſmall Thanks <hi>returned</hi> him, ſome Lip-labor <hi>ſervice</hi> done him, then 'tis <hi>Bleſs God and live.</hi>
+            </p>
+            <p>But if <hi>God</hi> turn the <hi>ſtream,</hi> and carry <hi>things</hi> clean another way, then ſays <hi>Jobs</hi> wife to him, <hi>What doſt thou ſtill retain thine integrity?</hi>
+               <note place="margin">Iob 2.10.</note> 
+               <hi>Is it neceſſary that thou ſhouldeſt ſtill wait upon God?</hi> No; 'tis not Bleſs <hi>God</hi> and live then, but <hi>Curſe God and dye.</hi>
+            </p>
+            <p>Have we not <hi>ſeen</hi> a great deal of this <hi>wickedneſs</hi> within our ſelves lately, among <hi>fooliſh, ignorant,</hi>
+               <note place="margin">An experi<g ref="char:EOLhyphen"/>ment of it a<g ref="char:EOLhyphen"/>mong our ſelves.</note> 
+               <hi>bruitiſh</hi> people, <hi>vexing,</hi> and <hi>fretting,</hi> and <hi>fuming</hi> at preſent <hi>Providential</hi> Adminiſtrations, and conſe<g ref="char:EOLhyphen"/>quently <hi>flying</hi> in the <hi>very face</hi> of <hi>God</hi> himſelf, for not <hi>ordering</hi> things juſt as they <hi>would</hi> have him? Hath not this been a <hi>predominant</hi> piece of <hi>folly</hi> a long time <hi>amongſt</hi> us, to be <hi>diſcontented</hi> at <hi>Inſtruments,</hi> and to neglect the <hi>chief Agent,</hi> in all our <hi>Troubles.</hi>
+            </p>
+            <p>In <hi>Matth.</hi> 7.6.<note place="margin">Matth. 7 6. opened.</note> our <hi>Savior</hi> there compares <hi>grace<g ref="char:EOLhyphen"/>leſs</hi> perſons unto <hi>Dogs</hi> and <hi>Swine,</hi> ſaying, <hi>Give not that which is holy unto dogs, neither caſt pearls before ſwine:</hi> And truly they are like unto <hi>Dogs</hi> and <hi>Swine</hi> in nothing more, then in <hi>reſpect</hi> of <hi>Judgements</hi> and <hi>Mercies;</hi> for when <hi>Mercies</hi> come, then they are like unto the <hi>Swine,</hi> that feeds upon the <hi>Acorns,</hi> and ne<g ref="char:EOLhyphen"/>ver looks up to the <hi>Tree</hi> from whence they fell; and when <hi>Judgements</hi> come, they they are like unto
+<pb n="20" facs="tcp:117291:16"/> the <hi>Dog,</hi> that <hi>barks,</hi> and <hi>bites,</hi> and <hi>ſnaps</hi> at the <hi>ſtone,</hi> and never regards the <hi>hand</hi> that threw it.</p>
+            <p>
+               <hi>And thus you ſee</hi> how marvellous <hi>apt</hi> we are to <hi>trouble</hi> our ſelves, and in ſeveral <hi>Caſes</hi> of this na<g ref="char:EOLhyphen"/>ture, <hi>dangerouſly</hi> to miſcarry, through our own <hi>ig<g ref="char:EOLhyphen"/>norance,</hi> and <hi>folly,</hi> and <hi>bruitiſhneſs,</hi> and not by <hi>reaſon</hi> of any the <hi>leaſt defect or fault</hi> that is to be found in <hi>Divine</hi> and <hi>Heavenly Diſpenſations.</hi>
+            </p>
+            <p>
+               <note place="margin">God not un<g ref="char:EOLhyphen"/>righteous, or any way to be blame, how<g ref="char:EOLhyphen"/>ever things frame in the world. Pſal. 145.17. Zeph. 3.5. Pſal. 92.15.5.4.</note>For however things <hi>frame</hi> in the <hi>world,,</hi> we muſt ſtill <hi>retain</hi> this <hi>concluſion,</hi> That <hi>the Lord is righteous in all his ways, and holy in all his works;</hi> a <hi>juſt God</hi> he is, and <hi>one that will do no iniquity, neither is there any unrighteouſneſs in him: There ſhall no wickedneſs dwell with him,</hi> or ſo much as come <hi>near</hi> him; he is at an infinite <hi>diſtance</hi> from all <hi>unrighteouſneſs,</hi> yea and he <hi>orders</hi> All things here <hi>below,</hi> according to the <hi>ex<g ref="char:EOLhyphen"/>acteſt</hi> way of <hi>Righteouſneſs,</hi> and <hi>Holineſs,</hi> and <hi>Ju<g ref="char:EOLhyphen"/>ſtice,</hi> and <hi>Wiſdom;</hi> he is not onely <hi>Righteous,</hi> and <hi>Holy,</hi> and <hi>Wiſe,</hi> and <hi>Merciful,</hi> and <hi>Faithful</hi> in <hi>him<g ref="char:EOLhyphen"/>ſelf,</hi> and of <hi>himſelf;</hi> but in thoſe very <hi>dealings</hi> and Providential <hi>Adminiſtrations,</hi> wherein men appear to be <hi>unrighteous,</hi> and <hi>unholy,</hi> and <hi>unwiſe,</hi> and <hi>unmer<g ref="char:EOLhyphen"/>ciful,</hi> and <hi>unfaithful,</hi> yet in thoſe very <hi>ways,</hi> and <hi>acti<g ref="char:EOLhyphen"/>ons,</hi>
+               <note place="margin">Magna laus vi<g ref="char:EOLhyphen"/>delicet Deo, ut ab informitate ſe vindicet, for<g ref="char:EOLhyphen"/>mâ unâ eſſe contentum. <hi>Bernard. de conſid. l. 5. c. 7.</hi> Nihil in ſe, niſi ſe habet. <hi>Idem. ibid.</hi>
+               </note> and <hi>dealings,</hi> God is ſtill the <hi>ſame,</hi> he <hi>varies</hi> not one jot, but is what he <hi>ever</hi> was, and what he ever <hi>will be</hi> ſtill, no <hi>variableneſs</hi> with him, nor ſo much as any <hi>ſhadow</hi> of <hi>turning:</hi> In the <hi>unrighteouſ<g ref="char:EOLhyphen"/>neſs</hi> of men, God is <hi>righteous;</hi> In the <hi>prophane<g ref="char:EOLhyphen"/>neſs</hi> of men, God is <hi>holy;</hi> In the <hi>follies</hi> of men, God is <hi>wiſe;</hi> In the <hi>cruelties</hi> of men, God is <hi>merci<g ref="char:EOLhyphen"/>ful;</hi> and In the <hi>treacheries</hi> of men, God is <hi>faith<g ref="char:EOLhyphen"/>full.</hi>
+            </p>
+            <p>Nay more, <hi>In thoſe very things,</hi> wherein men
+<pb n="21" facs="tcp:117291:16"/> are left unto themſelves,<note place="margin">Cùm igitur Deus ſit univer<g ref="char:EOLhyphen"/>ſalis proviſor totius entis ad ipſius Provi<g ref="char:EOLhyphen"/>dentiam pertinet ut permittat quoſdam defe<g ref="char:EOLhyphen"/>ctus eſſe in ali<g ref="char:EOLhyphen"/>quibus particu<g ref="char:EOLhyphen"/>laribus rebus, ne impediatur bo<g ref="char:EOLhyphen"/>num univerſi perfectum: Si enim omniae ma<g ref="char:EOLhyphen"/>la impedirentur multa bona de<g ref="char:EOLhyphen"/>eſſent univerſo non enim eſſet Vita Leonis, ſi non eſſet Occiſio Animalium nec eſſet Patientia Martyrum ſi non eſſet Perſe<g ref="char:EOLhyphen"/>cutio Tyrannorum. <hi>Aquin. 1 Par. Sum. Theol.</hi> Qu. <hi>22. Art. 2.</hi>
+               </note> and permitted to be moſt <hi>unrighteous,</hi> and moſt <hi>unholy,</hi> and moſt <hi>unwiſe,</hi> and moſt <hi>unmerciful,</hi> and moſt <hi>unfaithful,</hi> many times in thoſe very things does the <hi>Righteouſneſs,</hi> and the <hi>Holineſs,</hi> and the <hi>Wiſdom,</hi> and the <hi>Mercifulneſs,</hi> and the <hi>Faithfulneſs</hi> of God moſt <hi>eminently</hi> appear, for the good of his own <hi>People;</hi> onely ſo <hi>fooliſh are we, and ignorant, and as ſo many beaſts before the Lord,</hi> in our not being able to <hi>diſcern</hi> this: and <hi>that is it</hi> that <hi>grieves</hi> our poor <hi>hearts,</hi> and that <hi>troubles</hi> our <hi>ſpirits,</hi> and that <hi>pricks us in our reins,</hi> and that frequently <hi>oc<g ref="char:EOLhyphen"/>caſions</hi> ſo many woful <hi>miſcarriages,</hi> and <hi>miſdemea<g ref="char:EOLhyphen"/>nors</hi> amongſt us.</p>
+            <p>Thus much for the <hi>Explication</hi> of the <hi>Truth</hi> pro<g ref="char:EOLhyphen"/>pounded.</p>
+            <p>The <hi>Application</hi> follows.<note place="margin">Applicat.</note>
+            </p>
+            <p>And according to the Nature and Exigence of this Service, I ſhall apply it both ways:
+<list>
+                  <item>
+                     <hi>Ad Populum,</hi> To The People.</item>
+                  <item>
+                     <hi>Ad Parliamentum,</hi> To The Parliament.</item>
+               </list>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> To the People firſt. Since our own <hi>ignorance</hi> and <hi>folly</hi> is really the <hi>cauſe</hi> of all that <hi>trouble</hi> that comes upon our <hi>Spirits,</hi>
+               <note place="margin">Ad Populum.</note> concerning all <hi>maner</hi> of preſent <hi>Providential</hi> Adminiſtrations,<note place="margin">In all caſes (of difficulty eſpecially) Gods wiſdom to be admired, and our own folly acknow<g ref="char:EOLhyphen"/>ledged.</note> and not any thing either <hi>in God,</hi> or <hi>from God;</hi> This then ſhould <hi>teach</hi> us in all <hi>Caſes</hi> whatſoever (and eſpecially in <hi>difficult</hi> caſes) ſtill to admire the <hi>Wiſdom</hi> of God, and to <hi>acknowledge</hi> our own folly; for thats the pro<g ref="char:EOLhyphen"/>per <hi>Character</hi> of a true Believer, to be ſtill <hi>abaſing</hi>
+               <pb n="22" facs="tcp:117291:17"/> himſelf, and <hi>lifting up God;</hi> to have <hi>high thoughts</hi> concerning <hi>God,</hi> and <hi>good thoughts</hi> concerning <hi>God,</hi> and low mean <hi>thoughts</hi> concerning <hi>himſelf;</hi> yea, <hi>though</hi> there be no <hi>apparent</hi> Reaſon <hi>ſometimes</hi> above <hi>ground,</hi>
+               <note place="margin">Indè locum non habent contu<g ref="char:EOLhyphen"/>macium mur<g ref="char:EOLhyphen"/>murae querela<g ref="char:EOLhyphen"/>rum, quia quod Deus fieri vo<g ref="char:EOLhyphen"/>luit, conſtat non aliter fieri de<g ref="char:EOLhyphen"/>buiſſe quam vo<g ref="char:EOLhyphen"/>luit. <hi>Ambroſ. de vocat. Gent. lib. 2. cap. 1.</hi>
+               </note> or in open <hi>view,</hi> for that which <hi>God</hi> does, yet <hi>Wiſdom is ſtill juſtified of her children;</hi> and all that <hi>God</hi> does muſt needs be <hi>very good,</hi> even <hi>becauſe he does it.</hi>
+            </p>
+            <p>And therefore ye <hi>ſee</hi> when <hi>David</hi> had <hi>perfectly</hi> recovered <hi>himſelf</hi> here, and clearly <hi>overcome</hi> the Temptation that he was <hi>under,</hi> he ſpends all the reſt of the <hi>Pſalm</hi> in <hi>abaſing</hi> himſelf, and <hi>ſetting</hi> up <hi>God;</hi> I was <hi>fooliſh,</hi> ſays he, and I was <hi>ignorant,</hi> and <hi>I was as a beaſt before thee:</hi> But yet <hi>nevertheleſs, I am con<g ref="char:EOLhyphen"/>tinually with thee thou haſt holden me by my right hand; Thou ſhalt guide me with thy counſel, and after<g ref="char:EOLhyphen"/>wards receive me to glory: Whom have I in heaven, but thee? and there is none upon earth that I deſire be<g ref="char:EOLhyphen"/>ſides thee: My fleſh and my heart fails, but God is the ſtrength of my heart, and my portion for ever:</hi> and, <hi>It is good for me to draw near unto him, &amp;c.</hi> And <hi>this may we alſo do,</hi> look what <hi>David</hi> here did, the <hi>ſame</hi> may we do; it is not onely <hi>lawful,</hi> but <hi>neceſſary for us,</hi> to do the ſame: we may <hi>blame</hi> our <hi>ſelves,</hi> but we muſt not <hi>blame our God;</hi> we may <hi>accuſe</hi> our ſelves, but we muſt not <hi>accuſe</hi> him; we may utter <hi>complaints to God,</hi> but why ſhould we <hi>mention</hi> any complaints <hi>againſt God,</hi> either directly or indi<g ref="char:EOLhyphen"/>rectly?</p>
+            <p>When ye are <hi>ſick,</hi> or when ye are <hi>weak,</hi> or when ye are <hi>poor,</hi> when ye are <hi>wronged,</hi> or when ye are <hi>oppreſſed, injuriouſly</hi> dealt with in any <hi>kinde,</hi> ye may <hi>complain to God,</hi> that's very <hi>lawful;</hi> but ye muſt
+<pb n="23" facs="tcp:117291:17"/> not <hi>complain of God,</hi> for that's <hi>very ſinful,</hi> and in<g ref="char:EOLhyphen"/>deed <hi>unreaſonable,</hi> for he can do you no <hi>wrong: He is my Rock,</hi> ſays the Pſalmiſt, <hi>and there is no unrigh<g ref="char:EOLhyphen"/>teouſneſs in him,</hi> Pſal. 92.15. He is and can be no otherwiſe, then <hi>Righteous in all his way, and holy in all his works:</hi>
+               <note n="*" place="margin">Eſt autem Deus per ſuam eſſen<g ref="char:EOLhyphen"/>tiam bonus ſicut &amp; per candem lux eſt, ergo ſi<g ref="char:EOLhyphen"/>cuti ita eſt lux ut tenebrae in eo non ſint ullae ſic ita eſt bonus, ut nihil in eo queat eſſe mali. <hi>Zanch. de Nat. Dei l. 4. c. 1. Theſ. 4.</hi>
+               </note> As he is ſo <hi>light,</hi> that there can be <hi>darkneſs</hi> in him, ſo he is ſo <hi>good,</hi> that there can be no <hi>evil</hi> in him.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> Secondly, <hi>You may obſerve from hence likewiſe,</hi> That a <hi>man</hi> ſeldom or never <hi>knows</hi> the <hi>bottom</hi> of his own <hi>heart;</hi> he is ſeldom <hi>acquainted</hi> with the <hi>weak<g ref="char:EOLhyphen"/>neſs,</hi> the <hi>folly,</hi> the <hi>ignorance,</hi>
+               <note place="margin">The Saints ad<g ref="char:EOLhyphen"/>vantage by Temptations.</note> the <hi>bruitiſhneſs</hi> of his own <hi>Spirit,</hi> till he comes to be <hi>tryed,</hi> and <hi>hard put to it,</hi> in one <hi>caſe</hi> or another. That hour of <hi>Temptation</hi> that was here upon <hi>David,</hi> that drew forth <hi>this humble Confeſeion</hi> or <hi>acknowledgement</hi> from him, <hi>So fooliſh was I, and ignorant, and even as a beaſt before thee:</hi> Thoſe <hi>hard Chapters,</hi> and <hi>dark Leſſons,</hi> and <hi>obſcure Texts,</hi> that the <hi>People</hi> of God meet with, <hi>ſometimes</hi> in the <hi>Word</hi> of God, and <hi>ſometimes</hi> in his <hi>Works,</hi> theſe things <hi>diſcover</hi> to them (and withal they put them upon <hi>admiring</hi>) the <hi>unconceiveable depth</hi> of Gods <hi>Wiſdom,</hi> and the <hi>extreme ſhallowneſs</hi> of their own <hi>wiſdom.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 
+               <hi>And then in the third place,</hi> We <hi>ſee</hi> here likewiſe the <hi>ingenuity</hi> of <hi>holy men</hi> formerly,<note place="margin">The ingenuity and faithful<g ref="char:EOLhyphen"/>neſs of holy men formerly.</note> and how <hi>faith<g ref="char:EOLhyphen"/>ful</hi> they were, not onely in keeping a <hi>Regiſter</hi> them<g ref="char:EOLhyphen"/>ſelves, but in giving us a <hi>Regiſter alſo,</hi> even of their <hi>failings,</hi> which are a very great <hi>advantage</hi> to us, <hi>if rightly interpreted,</hi> in very many <hi>Reſpects;</hi> As in this very <hi>particular</hi> here that we <hi>are</hi> now upon, If ſuch a man as <hi>David,</hi> when he came to be <hi>tempted,</hi>
+               <note place="margin">In <hi>David</hi> here.</note> if he had <hi>cauſe</hi> to ſay, <hi>So fooliſh was I, and ignorant,
+<pb n="20" facs="tcp:117291:18"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="21" facs="tcp:117291:18"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="22" facs="tcp:117291:19"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="23" facs="tcp:117291:19"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="24" facs="tcp:117291:20"/> and even as a beaſt before thee:</hi> And if ſuch a man as <hi>Agur,</hi>
+               <note place="margin">In <hi>Agur,</hi> Prov. 30.2, 3.</note> a man ſo eminent for <hi>wiſdom</hi> as he was, <hi>if he found cauſe to ſay,</hi> as <hi>there</hi> he does, <hi>Prov.</hi> 30.2, 3. <hi>Surely I more bruitiſh then any man, I have not the underſtanding of a man; I have neither learned wiſdom, neither have I the knowledge of the holy;</hi> I ſay, if <hi>theſe men</hi> found ſo much <hi>fault</hi> with them<g ref="char:EOLhyphen"/>ſelves, and if they <hi>ſaw</hi> ſo much <hi>defectiveneſs</hi> in themſelves, in point of <hi>wiſdom,</hi> then <hi>what</hi> may we ſay of <hi>our ſelves,</hi> that are ſo <hi>far ſhort</hi> of them? How much <hi>more</hi> ought we to be <hi>humbled,</hi> upon the very ſame <hi>conſideration?</hi> But I <hi>paſs</hi> that alſo, though very <hi>conſiderable</hi> by us <hi>at all times,</hi> and eſpecially <hi>now at this time,</hi> wherein we are <hi>ſolemnly</hi> met, to humble <hi>our ſelves</hi> in the preſence of the Lord; and I do not know <hi>any thing</hi> that can be mentioned, of a more <hi>abaſing</hi> nature, then this very <hi>Conſideration</hi> that hath now been <hi>ſuggeſted.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> 
+               <hi>But in the fourth place,</hi> We <hi>ſee likewiſe</hi> from hence how far even <hi>good men</hi> may ſometimes <hi>fall ſhort</hi> in their preſent <hi>Apprehenſions,</hi>
+               <note place="margin">Godly men may ſome<g ref="char:EOLhyphen"/>times fail, and fall ſhort in their appre<g ref="char:EOLhyphen"/>henſions, con<g ref="char:EOLhyphen"/>cerning Di<g ref="char:EOLhyphen"/>vine and hea<g ref="char:EOLhyphen"/>venly Diſpen<g ref="char:EOLhyphen"/>ſations.</note> concerning Divine and Heavenly <hi>Diſpenſations:</hi> If a man had gone to <hi>Da<g ref="char:EOLhyphen"/>vid</hi> here, before he <hi>received</hi> ſatisfaction himſelf, to have <hi>conſulted</hi> with him, or to have <hi>taken</hi> his <hi>judge<g ref="char:EOLhyphen"/>ment</hi> concerning the <hi>eſtate</hi> of the <hi>wicked,</hi> and the <hi>eſtate</hi> of the <hi>godly,</hi> in all <hi>likelyhood</hi> he would have given out very <hi>dangerous</hi> counſel; and ſuch as <hi>Peter</hi> gave unto <hi>Chriſt,</hi> when he <hi>wiſhed</hi> him by all <hi>means</hi> to <hi>decline</hi> his ſufferings; when <hi>Chriſt</hi> ſpake of <hi>ſuffer<g ref="char:EOLhyphen"/>ing</hi> many things, and of being <hi>killed,</hi> and <hi>raiſed</hi> again the <hi>third</hi> day, <hi>Far be it from thee Lord,</hi> ſays <hi>Peter, this ſhall not be unto thee,</hi> Matth. 16.22.<note place="margin">Mat. 16.22.</note> How mightily was <hi>Peter</hi> miſtaken in that <hi>Caſe,</hi> and <hi>David</hi>
+               <pb n="25" facs="tcp:117291:20"/> in this, until he went <hi>into the Sanctuary of God?</hi> But to leave that alſo and</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> 
+               <hi>In the fifth and laſt place,</hi> ſince we <hi>ſee</hi> clearly from hence, what it is that <hi>troubles</hi> us, and that frequently <hi>cauſes</hi> us to <hi>miſcarry,</hi> let us therefore conſider of <hi>ſome way,</hi> whereby we may get above this <hi>ignorance,</hi> and <hi>folly,</hi> and <hi>bruitiſhneſs</hi> of Spirit, that the <hi>Text</hi> here ſpeaks of; for certainly could we but <hi>do ſo,</hi> we ſhould <hi>thereby</hi> eaſe our <hi>Spirits</hi> of a great deal of <hi>ſor<g ref="char:EOLhyphen"/>row</hi> and <hi>trouble</hi> that now they are <hi>obnoxious</hi> unto,<note place="margin">The way to eaſe our ſpirits of a great deal of trouble is to get above our own ignoran<g ref="char:EOLhyphen"/>ces.</note> by <hi>reaſon</hi> of theſe <hi>things:</hi> what ſays <hi>David</hi> in the <hi>Text</hi> here? <hi>My heart was grieved, and I was pricked in my reins;</hi> and then he goes on <hi>with this</hi> as the <hi>cauſe</hi> of it, <hi>So fooliſh was I, and ignorant.</hi>
+            </p>
+            <p>Now for the <hi>avoiding</hi> of this amongſt us, this <hi>ignorance</hi> and <hi>folly,</hi> the onely <hi>way</hi> is,<note place="margin">Ignorance and folly how to be avoided.</note> to <hi>enquire</hi> after <hi>Wiſdom,</hi> and to <hi>ſearch</hi> for <hi>Underſtanding;</hi> accord<g ref="char:EOLhyphen"/>ing to that of <hi>Solomon,</hi> Prov. 4.7.<note place="margin">Prov. 4.7.</note> 
+               <hi>Wiſdom is the principal thing, and therefore get wiſdom, and with all thy getting, get underſtanding.</hi>
+               <note place="margin">Wiſdom mo<g ref="char:EOLhyphen"/>ved for upon a double Conſi<g ref="char:EOLhyphen"/>deration.</note>
+            </p>
+            <p>And this I do the <hi>rather</hi> move for, upon a double <hi>Conſideration:</hi>
+            </p>
+            <p>
+               <hi>Firſt,</hi> becauſe of that <hi>great defect</hi> or want of <hi>wiſ<g ref="char:EOLhyphen"/>dom,</hi>
+               <note place="margin">1 <hi>Conſid.</hi> From that want of wiſ<g ref="char:EOLhyphen"/>dom that hath always been in the world.</note> that both <hi>hath been and is</hi> apparently to be <hi>ſeen</hi> in the <hi>world:</hi> In all <hi>times</hi> and <hi>ages,</hi> a truly <hi>wiſe man</hi> hath been a very <hi>choyce piece,</hi> a very <hi>rare commodity;</hi> Look among the <hi>Jews of old,</hi> that had the <hi>lively Oracles of God</hi> committed to them, and that had more <hi>helps,</hi> and <hi>means,</hi> and <hi>advantages</hi> to make them <hi>truly wiſe,</hi> then all the world beſides: and yet it is even <hi>admirable</hi> to conſider, what a <hi>fooliſh people</hi> they were, and even <hi>more bruitiſh</hi> then the very <hi>bruit creatures:</hi> Iſa. 1.3. <hi>The Ox knows his owner</hi> (ſays
+<pb n="26" facs="tcp:117291:21"/> God by the Prophet there) <hi>and the Aſs his maſters crib;</hi>
+               <note place="margin">Senſus eſt per<g ref="char:EOLhyphen"/>ſpicuus ego, in<g ref="char:EOLhyphen"/>quit, cos adopta<g ref="char:EOLhyphen"/>vi in ſilios, &amp; feci populum peculiarem &amp; partem meam, ac funiculum hae<g ref="char:EOLhyphen"/>relitatis meae, appellavi<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> eos primogenitos: illi autem ne hoc quidem fe<g ref="char:EOLhyphen"/>cerunt quod bruta faciunt animalia, ut beneficis vince<g ref="char:EOLhyphen"/>ventur, &amp; intelligerent Paſtorem &amp; Nutritium ſuum. <hi>Hieron. Com. in loc.</hi>
+               </note> 
+               <hi>but Iſrael does not know, my people do not conſider:</hi> And again <hi>Jer.</hi> 8.6, 7. <hi>I hearkned, and heard, but they ſpake not aright; no man repented of his wicked<g ref="char:EOLhyphen"/>neſs, ſaying, What have I done? Every one turned to his courſe, as the horſe ruſhes into the battel; yea, the Stork in the heavens knoweth her appointed time, and the Turtle, and the Crane, and the Swallow obſerve the time of their coming; but my people know not the judgement of the Lord. [Mark,]</hi> My <hi>people;</hi> if it had been any <hi>body</hi> elſe, a man would never <hi>have wondred</hi> at it, but that <hi>God</hi> ſhould ſay this of his <hi>own people,</hi> that was very <hi>ſtrange.</hi>
+            </p>
+            <p>And in the <hi>New Teſtament,</hi> Jam. 3.13. there where the <hi>Apoſtle</hi> falls <hi>profeſſedly</hi> and <hi>expreſly</hi> upon this point of <hi>Wiſdom,</hi> ſays he there, <hi>Who is a wiſe man,</hi>
+               <note place="margin">
+                  <hi>Iam. 3.13.</hi> Vera ſapientiâ, &amp; ſcientià pol<g ref="char:EOLhyphen"/>leus, oſtendat eam operibus honeſtae &amp; man<g ref="char:EOLhyphen"/>ſuetae converſa<g ref="char:EOLhyphen"/>tionis, tanquam ejus germanis &amp; perpetuis fructibus. <hi>N. Herming. in loc.</hi>
+               </note> 
+               <hi>and endued with knowledge amongst you?</hi> As if he ſhould have ſaid, If there be <hi>ſuch a one</hi> to be found amongſt you, If ye can <hi>furniſh</hi> me with ſuch a man, <hi>let him now ſtand forth, and ſhew his face,</hi> and <hi>let him ſhew out of a good converſation his works, with meekneſs of wiſdom;</hi> But the <hi>words</hi> do clearly hold forth thus much <hi>unto him</hi> that underſtands them, That it is not <hi>eaſie</hi> to meet with <hi>ſuch a man,</hi> that is <hi>able to ſhew out of a good converſation his works, with meekneſs of wiſdom.</hi>
+            </p>
+            <p>
+               <note place="margin">2 <hi>Conſid.</hi> From the ma<g ref="char:EOLhyphen"/>ny miſtakes that are in the world about wiſdom.</note>
+               <hi>Secondly,</hi> Though there <hi>hath</hi> been, and <hi>is,</hi> ſo great a <hi>defect</hi> of this <hi>wiſdom</hi> abroad in the <hi>world,</hi> yet <hi>few</hi> men think ſo; moſt men think they are <hi>wiſe,</hi> and <hi>that their wiſdom ſhall dye with them;</hi> and <hi>few</hi> there be that will <hi>own</hi> ſo much <hi>ignorance</hi> and <hi>folly</hi> as <hi>Da<g ref="char:EOLhyphen"/>vid</hi>
+               <pb n="27" facs="tcp:117291:21"/> does here <hi>aſſume,</hi> or take <hi>home</hi> to himſelf; but <hi>even they that are moſt fooliſh, would yet be reputed wiſe.</hi> Its a notable <hi>ſpeech</hi> to this purpoſe, that <hi>Zo<g ref="char:EOLhyphen"/>phar</hi> hath in <hi>Job,</hi> ye muſt not take offence at the <hi>ſimilitude,</hi> becauſe the holy Ghoſt uſes it; <hi>Job</hi> 11.12.<note place="margin">Iob 11.12. cap.</note> ſays <hi>Zophar</hi> there, <hi>Vain man would be wiſe, though man be born like the wilde Aſſes colt;</hi> that is, though <hi>man by Nature</hi> be not onely <hi>like unto the beaſts that periſh,</hi> as the Pſalmiſt ſpeaks,<note place="margin">Pſal. 49.12, 10.</note> but <hi>like</hi> unto the <hi>dul<g ref="char:EOLhyphen"/>leſt</hi> of <hi>beaſts,</hi> the <hi>Aſs,</hi> and the <hi>dulleſt</hi> of <hi>Aſſes,</hi> the <hi>wilde Aſs,</hi> and the <hi>dulleſt</hi> of <hi>wilde Aſſes,</hi> the <hi>wilde Aſſes Colt;</hi> yet for all that <hi>vain man would be wiſe,</hi> that is, he would <hi>fain</hi> be <hi>reputed ſo,</hi> though he be <hi>not ſo.</hi> In other <hi>caſes</hi> men and women are <hi>content</hi> to be <hi>reputed</hi> as they are; they that are <hi>lame,</hi> and they that are <hi>blinde,</hi> and they that are <hi>deaf,</hi> and they that are <hi>dumb,</hi> are willing to <hi>bear</hi> the <hi>burthen</hi> of theſe <hi>Infirmities,</hi> and to be <hi>looked</hi> upon as they are: but no <hi>man</hi> would be <hi>reputed,</hi> or <hi>looked</hi> upon as a <hi>fool,</hi> every man would be wiſe, as <hi>Eraſmus</hi> ſaid in a <hi>Book</hi> that he wrote concerning the <hi>Praiſe</hi> of Folly (<hi>Moriae Encomium,</hi> 'tis called) <hi>Male Audit ſtultitia etiam apud ſtultiſsimos,</hi> Folly hath an <hi>ill name,</hi>
+               <note place="margin">Eraſm. Mor. Encom. ad init.</note> even among thoſe that are moſt <hi>fooliſh:</hi> And this <hi>fre<g ref="char:EOLhyphen"/>quently</hi> hinders people from <hi>enquiring</hi> after <hi>wiſdom,</hi> even <hi>their want of knowing that they want it;</hi> and therefore it was a <hi>ſage</hi> ſpeech of one of the <hi>wiſer</hi> ſort among the Heathens,<note place="margin">Puto multo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> potuiſſe ad ſapi<g ref="char:EOLhyphen"/>entiam perveni<g ref="char:EOLhyphen"/>re niſi putaſſent ſe perveniſſe. <hi>Sen. de Tranq. An. cap. 1.</hi>
+               </note> 
+               <hi>That many might have been wiſe, if they had not thought themſelves wiſe,</hi> if their own <hi>Wiſdom</hi> had not ſtood in their <hi>light;</hi> and <hi>Pro<g ref="char:EOLhyphen"/>feſsing themſelves wiſe, they became fools,</hi> ſays the Apoſtle, <hi>Rom.</hi> 1.22. <hi>Now I ſay,</hi> Since there is ſo much <hi>want of Wiſdom,</hi> and withal, ſince there are
+<pb n="28" facs="tcp:117291:22"/> ſo many <hi>miſperſwaſions</hi> in the world about it, and ſince the <hi>thing</hi> is in it ſelf ſo <hi>excellent</hi> and ſo <hi>neceſ<g ref="char:EOLhyphen"/>ſary,</hi> that the holy Ghoſt calls it <hi>The principal thing,</hi> Theſe <hi>Conſiderations</hi> ſhould <hi>ſtir</hi> us up to be ſo much the more <hi>diligent</hi> and <hi>curious</hi> in our <hi>Enquiries</hi> after it:<note place="margin">How to attain wiſdom.</note> And for the <hi>Attainment</hi> of it,</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Means. </seg>1</label> Firſt, ye muſt all be <hi>content</hi> to tread that <hi>unſmooth,</hi> and <hi>unpleaſant,</hi> and <hi>unbeaten</hi> path of <hi>Wiſdom,</hi> which the Apoſtle ſpeaks of, 1 <hi>Cor.</hi> 3.18. he ſpeaks of it there, not without ſome ſeeming <hi>diſadvantage</hi> as to his hearers the <hi>Corinthians,</hi> who had a great Name for <hi>Wiſdom,</hi> who looked upon <hi>themſelves,</hi> and were <hi>looked</hi> upon by <hi>others,</hi> as a very <hi>knowing</hi> people; <hi>Co<g ref="char:EOLhyphen"/>rinth</hi> being a rich opulent <hi>City,</hi>
+               <note place="margin">
+                  <hi>Vid.</hi> Alſted. Chronol. Vrb. Antiquiſ. Aul. Gell. Noct. At. lib. 14. c. 6. Itiner. tot. ſacr. Script. by <hi>R.B.</hi> printed at <hi>Lon<g ref="char:EOLhyphen"/>don, An.</hi> 1629.</note> full of <hi>Goods,</hi> and full of <hi>Gifts,</hi> and full of <hi>Parts,</hi> and full of <hi>Pride,</hi> (which <hi>things</hi> are very <hi>ſeldom</hi> or never aſunder in ſuch like <hi>places</hi>) but yet for all that, ſays the Apo<g ref="char:EOLhyphen"/>ſtle to them, in the place <hi>aforementioned, Let no man deceive himſelf,</hi> he means in point of <hi>Wiſdom;</hi> but, <hi>If any man among you ſeemeth to be wiſe,</hi> or would be reputed wiſe,<note place="margin">1 Cor. 3.18.</note> then here's his Rule, <hi>Let him be<g ref="char:EOLhyphen"/>come a fool, that he may be wiſe.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Means. </seg>2</label> Secondly, Pray for wiſdom, <hi>Prov.</hi> 2.3, 4, 5. <hi>If thou cryeſt after knowledge, and lifteſt up thy voice for underſtanding: If thou ſeekeſt her as ſilver, and ſearcheſt for her as for hid treaſures: Then ſhalt thou underſtand the fear of the Lord, and finde the knowledge of God. Solomon</hi> ye know took this <hi>courſe,</hi> he begg'd of God, <hi>A wiſe and an underſtanding heart;</hi> he made that the <hi>main</hi> of his deſires,<note place="margin">1 Kings 3.9.4.33.</note> and thereupon <hi>God gave him a large heart for wiſdom, even as the ſand upon the ſea ſhore;</hi> he was able to <hi>diſcourſe</hi> of every vegitable, from the <hi>Cedar</hi> in Lebanon, to the <hi>Hyſope</hi> that grew out of the <hi>wall.</hi>
+            </p>
+            <pb n="29" facs="tcp:117291:22"/>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Means. </seg>3</label> Thirdly, Look into the Word of God, <hi>Search the Scriptures;</hi> it ſtands upon Record, unto the per<g ref="char:EOLhyphen"/>petual praiſe and commendation of <hi>Timothy,</hi> That <hi>from a childe he had known the holy Scriptures, which</hi> (ſays the Apoſtle to him) <hi>are able to make thee wiſe unto ſalvation, through faith in Jeſus Chriſt,</hi> 2 Tim. 3.15.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Means. </seg>4</label> And this now <hi>brings</hi> me to a fourth particular, which I mention laſt of all, as the total ſum of all; and here I ſhall deſire both to fix mine own heart, and the Auditory alſo, making that the <hi>end</hi> of this <hi>Sermon,</hi> which <hi>either</hi> is (or ſhould be at leaſt) the <hi>end</hi> of <hi>every Sermon;</hi> namely this,<note place="margin">The know<g ref="char:EOLhyphen"/>ledge of God in Chriſt the end of preach<g ref="char:EOLhyphen"/>ing. 1 Cor. 2.2. 2 Cor. 4.5. Phil. 3.8.14.</note> 
+               <hi>The knowledge of God in Chriſt.</hi> If in all ſuch <hi>difficult Caſes</hi> as have been already <hi>mentioned,</hi> ye would ſtill <hi>underſtand</hi> the minde and will of God, and know <hi>what to do,</hi> then ye muſt of neceſſity have <hi>acquaintance</hi> with God, <hi>in and by Jeſus Chriſt,</hi> who is called <hi>ye know, The Counſellor,</hi> Iſa. 9 6. and, <hi>The wiſdom of God: We preach Chriſt crucified,</hi> ſays the Apoſtle, <hi>to the Jews a ſtumbling block, and to the Greeks fooliſhneſs; but unto them that are called, both Jews and Greeks, Chriſt the Power of God, and Chriſt the Wiſdom of God,</hi>
+               <note place="margin">Chriſtum cru<g ref="char:EOLhyphen"/>cifixum vocat primum DEI POTEN<g ref="char:EOLhyphen"/>TIAM, id eſt, cum qui vir<g ref="char:EOLhyphen"/>tute ſuae Deita<g ref="char:EOLhyphen"/>tis potenter diſ<g ref="char:EOLhyphen"/>ſolvit opera di<g ref="char:EOLhyphen"/>aboli, Principem hujus mundi ejecit foras, mundum deni<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> vicit, ac morti mors fuit, quum potenter ex morte reſurrexit: Deinde cundem Chriſtum crucifixum vocat DEI SA<g ref="char:EOLhyphen"/>PIENTIAM, id eſt, cum qui ſapicutiſſimum Dei de noſtrá ſalute conſilium non ſolum nobis patefecit, verùm etiam exequutus eſt. <hi>Piſcat. in loc.</hi>
+               </note> 1 Cor. 1.23, 24. And as for all that <hi>wiſdom</hi> that men <hi>poſſeſs</hi> out of <hi>Chriſt,</hi> there is, ſhall I ſay, a <hi>cloud</hi> upon it? yea and <hi>more,</hi> there is not onely a <hi>cloud</hi> upon it, but a <hi>curſe</hi> upon it, and it will <hi>appear</hi> to be no <hi>better</hi> then meer <hi>fooliſhneſs</hi> and <hi>madneſs</hi> in the latter end.</p>
+            <pb n="30" facs="tcp:117291:23"/>
+            <p>God hath <hi>begun</hi> to do it <hi>already,</hi> and he will do it yet <hi>more abundantly,</hi> he will certainly finde a time to <hi>convert</hi> or turn all that <hi>ſtrength</hi> into <hi>weakneſs,</hi>
+               <note place="margin">
+                  <hi>Note.</hi> 2 Sam. 15.31.</note> and all that <hi>wiſdom</hi> into <hi>fooliſhneſs,</hi> that <hi>flows</hi> not <hi>out of the fulneſs of Jeſus Chriſt the Righteous.</hi>
+               <note place="margin">Iohn 1.16. The wiſdom of Chriſt durable.</note>
+            </p>
+            <p>But now <hi>the wiſdom of Chriſt,</hi> that's <hi>durable</hi> and <hi>abiding,</hi> and not onely <hi>laſting,</hi> but <hi>everlaſting,</hi> and the <hi>longer</hi> ye have it, the <hi>better</hi> you'l like it ſtill; and this is it that <hi>David</hi> was here <hi>poſſeſſed</hi> of, he could not <hi>outwraſtle</hi> the <hi>Temptation</hi> he was under, <hi>until he went into the Sanctuary of God;</hi> and though he did go into the <hi>Sanctuary,</hi> yet if God had not <hi>met</hi> him there, and <hi>revealed</hi> himſelf to him there, he might have <hi>gone out,</hi> as <hi>wiſe</hi> as he <hi>came in,</hi> but he <hi>found God</hi> there, <hi>God</hi> was <hi>with him</hi> there to <hi>reſolve</hi> him of his <hi>doubt;</hi> yea, he was with him <hi>continually:</hi> And thats his <hi>relief</hi> here, his <hi>Sanctuary, his Refuge, My heart was grieved,</hi> ſays he, <hi>and I was pricked in my reins,</hi> through mine own <hi>ignorance,</hi> and <hi>bruitiſhneſs,</hi> and <hi>folly;</hi> but then here he <hi>relieves himſelf,</hi> even with that which follows, <hi>Nevertheleſs, I am continually with thee;</hi> and though I ſhould <hi>chance</hi> to let go my <hi>hold</hi> of thee, yet thou wilt never let go thy <hi>holdfast</hi> of me, <hi>Thou haſt holden me by my right hand.</hi> Thus much to us All.</p>
+            <p>
+               <note place="margin">Ad Parlia<g ref="char:EOLhyphen"/>mentum.</note>Now to your ſelves <hi>(Honored Worthyes)</hi> who are the Repreſentative <hi>Body</hi> of this whole <hi>Nation,</hi> I ſhall humbly crave leave to <hi>ſuggeſt</hi> ſomething from hence unto you.</p>
+            <p>
+               <note place="margin">2 Tim 3.1. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> 
+                  <hi>Tempora moleſta ſive difficilia.</hi>
+               </note>The <hi>God</hi> of Heaven, by his <hi>Providence</hi> (the <hi>Wiſe</hi> and the <hi>Holy</hi> God) hath called you to a very <hi>great Work,</hi> in a very <hi>difficult</hi> and <hi>dangerous</hi> time: And
+<pb n="31" facs="tcp:117291:23"/> how will ye do to <hi>manage</hi> this great work, if the <hi>Wiſdom</hi> now ſpoken of, be not <hi>eminently</hi> preſent with you, if ye be not as <hi>Angels of Light,</hi>
+               <note place="margin">2 Sam. 14.17.</note> 
+               <hi>to di<g ref="char:EOLhyphen"/>ſcern between Good and Evil?</hi> Surely no other <hi>Gar<g ref="char:EOLhyphen"/>ment</hi> would ſo well <hi>become</hi> you at this <hi>time,</hi> as this of <hi>Wiſdom;</hi> We could not have <hi>thought</hi> upon any thing more <hi>ſuitable</hi> to you, or more <hi>ſeaſonable</hi> for you.</p>
+            <p>To this purpoſe be pleaſed to <hi>obſerve,</hi> How the Holy Ghoſt it ſelf preaches this <hi>Doctrine</hi> to you, how <hi>Wiſdom</hi> it ſelf does in a ſpecial maner call upon <hi>ſuch</hi> as you are, <hi>To be inſtructed,</hi> and to be <hi>wiſe,</hi> &amp;c.</p>
+            <p>In the ſecond <hi>Pſalm,</hi> and at the <hi>beginning</hi> of it,<note place="margin">2 Pſ. br. paraph.</note> the Pſalmiſt having there <hi>declared</hi> the <hi>Deſign</hi> and <hi>Plot</hi> of great ones againſt <hi>God,</hi> and <hi>Chriſt,</hi>
+               <note place="margin">The Deſign of great ones a<g ref="char:EOLhyphen"/>gainſt God &amp; Chriſt, v. 2, 3.</note> in thoſe words, <hi>The Kings of the earth ſet themſelves, and the Rulers take counſel together againſt the Lord, and againſt his Anointed, ſaying, Let us break their bonds aſunder, and caſt away their cords from us:</hi> And having withal declared the <hi>fruitleſneſs,</hi>
+               <note place="margin">The vanity of that Deſign, v. 4, 5, 6.</note> and the <hi>va<g ref="char:EOLunhyphen"/>nity</hi> of that <hi>Deſign,</hi> in ſaying, <hi>He that ſitteth in heaven ſhall laugh; the Lord ſhall have them in deri<g ref="char:EOLunhyphen"/>ſion: He ſhall ſpeak unto them in his wrath, and vex them in his ſore diſpleaſure; and yet have I ſet my King upon my holy hill of Sion;</hi> that is, the <hi>Deſign</hi> of <hi>God</hi> by <hi>Chriſt,</hi> that ſhall ſtill <hi>proſper,</hi> and take <hi>effect,</hi> and <hi>go</hi> on; and all thoſe <hi>great ones</hi> that oppoſe it, they ſhall be moſt miſerably <hi>ſhattered, deſtroyed</hi> and <hi>broken.</hi>
+            </p>
+            <p>Hereupon his<note n="*" place="margin">Counſel to ſuch as are not yet privy to the deſign, to take heed of being drawn in, v. 10, 11, 12.</note> counſel is, at the 10, 11, 12. <hi>Be wiſe now therefore, O ye Kings, be inſtructed, ye Judges of the Earth: Serve the Lord with fear, and rejoyce
+<pb n="32" facs="tcp:117291:24"/> with trembling; Kiſs the Son, &amp;c.</hi> Thus you ſee how he <hi>leads</hi> you from the <hi>Streams</hi> to the <hi>Fountain,</hi> from the <hi>Water-courſes</hi> to the <hi>Well-head;</hi> Be <hi>Wiſe</hi> firſt, and Be <hi>Inſtructed,</hi> and as a <hi>means</hi> to bring in <hi>Wiſdom</hi> and <hi>Inſtruction, Kiſs the Son, left he be angry, and ye periſh from the Way, if his Wrath be kindled but a little: bleſſed are all they that put their truſt in him.</hi>
+            </p>
+            <p>
+               <hi>If his Wrath be kindled but a little, &amp;c.</hi> and certainly, his <hi>Wrath is now kindled not a little,</hi> his heart is fully <hi>ſet,</hi> and <hi>engaged</hi> upon the <hi>buſi<g ref="char:EOLhyphen"/>neſs,</hi> and he will have <hi>All down</hi> that are <hi>implacably</hi> bent againſt him, <hi>High</hi> and <hi>Low, Rich</hi> and <hi>Poor, Noble</hi> and <hi>Ignoble, Learned</hi> and <hi>Unlearned,</hi> All muſt either <hi>bow</hi> or <hi>break,</hi>
+               <note place="margin">Zeph. 2.11.</note> 
+               <hi>ſtoop</hi> or <hi>ſtarve (For he will famiſh all the gods of the Earth)</hi> and therefore now, at <hi>this</hi> time eſpecially, <hi>Bleſſed are all they that put their truſt in him.</hi>
+            </p>
+            <p>And beſides this general Conſideration of <hi>Wiſ<g ref="char:EOLhyphen"/>dom,</hi> as that which would now be very <hi>uſeful,</hi> and <hi>profitable,</hi> and <hi>ſeaſonable;</hi> Give me leave to deal a little more <hi>particularly,</hi>
+               <note place="margin">Two things before the Par<g ref="char:EOLhyphen"/>liament at this time, requiring much exactnes in point of wiſdom.</note> and to obſerve, That there are two <hi>Things</hi> before you at this time, that will certainly <hi>require</hi> very much <hi>exactneſs</hi> in point of <hi>Wiſdom,</hi> namely, <hi>Liberty</hi> and <hi>Juſtice.</hi>
+            </p>
+            <p>Touching the <hi>former</hi> of theſe, matter of <hi>Liberty, The Liberties of the People,</hi>
+               <note place="margin">1. <hi>Liberty.</hi>
+               </note> and <hi>The Liberties of the Saints:</hi> I ſhall not therein <hi>take</hi> upon me to <hi>preſcribe</hi> to you (for that's no part of my <hi>Work,</hi> neither is it any part of my <hi>purpoſe</hi> ſo to do) onely this <hi>experi<g ref="char:EOLhyphen"/>mental</hi> obſervation I ſhall crave leave to make out from your former <hi>Proceedings,</hi> and it is certainly <hi>very conſiderable</hi> by you, That ſo long as ye took thoſe two <hi>things</hi> into <hi>ſerious</hi> Conſideration, <hi>God<g ref="char:EOLhyphen"/>lineſs
+<pb n="33" facs="tcp:117291:24"/> and Honeſty,</hi> and told us <hi>plainly,</hi>
+               <note place="margin">2 Tim. 2.2.</note> That <hi>under your ſhadow they ſhould live;</hi>
+               <note place="margin">Lam. 4.20.</note> ſo long as ye held forth this in your <hi>Declarations,</hi> and went on <hi>accordingly,</hi> I am <hi>perſwaded,</hi> That <hi>All</hi> that while ye had as much <hi>incouragement</hi> from <hi>God himſelf,</hi> and from <hi>good men,</hi> as could be expected or deſired: But when once your <hi>motions</hi> began to be <hi>retrograde,</hi> &amp; the <hi>people</hi> ſaw clearly,<note place="margin">Dangerous to depart from juſt &amp; honeſt Principles, up<g ref="char:EOLhyphen"/>on any pre<g ref="char:EOLhyphen"/>tence whatſo<g ref="char:EOLhyphen"/>ever.</note> That <hi>divers</hi> amongſt you <hi>intended</hi> nothing leſs, then what was thus <hi>fairly pretended,</hi> then I pray <hi>conſider</hi> what <hi>followed,</hi> Nothing but <hi>trouble</hi> upon <hi>trouble,</hi> and <hi>vexation</hi> upon <hi>vexation,</hi> and <hi>breach</hi> upon <hi>breach,</hi> until ye were almoſt even quite <hi>Broken all to pieces:</hi> and therefore whenſoever <hi>any thing</hi> comes to be <hi>debated,</hi> that concerns <hi>either</hi> of theſe, or <hi>both</hi> theſe together, The <hi>Liberties of the People,</hi> and The <hi>Liberties of the Saints,</hi> then look up unto God for <hi>Wiſdom,</hi> and for <hi>Counſel,</hi> and for <hi>Direction,</hi> (and the Lord give you <hi>Wiſdom,</hi> and <hi>Counſel,</hi> and <hi>Direction</hi> in it) For certain it is, That there are hardly any <hi>Rocks</hi> more dangerous to break upon, then theſe two are.</p>
+            <p>Then for that other work of <hi>Juſtice,</hi>
+               <note place="margin">2. <hi>Juſtice.</hi>
+               </note> that hath been long <hi>expected</hi> from you, and that ye ſeem now to be fully <hi>ingaged</hi> upon: I ſhall not therein <hi>preſcribe</hi> to you neither, onely <hi>point</hi> at ſome few <hi>things,</hi>
+               <note place="margin">Nehem. 6.9.</note> that may (through the <hi>Bleſsing of Heaven</hi>) be a means to <hi>ſtrengthen</hi> your hands in that <hi>great</hi> and <hi>neceſſary</hi> work.</p>
+            <p>To this <hi>purpoſe</hi> be pleaſed to <hi>conſider,</hi>
+               <note place="margin">Two things noted concern<g ref="char:EOLhyphen"/>ing Iuſtice.</note> That <hi>Ju<g ref="char:EOLhyphen"/>ſtice</hi> is both a very <hi>comprehenſive</hi> Vertue, and a very <hi>curious</hi> Vertue.</p>
+            <p>Firſt,<note place="margin">1. A very com<g ref="char:EOLhyphen"/>prehenſive.</note> It is a very <hi>Comprehenſive</hi> Grace or Ver<g ref="char:EOLhyphen"/>tue.</p>
+            <pb n="34" facs="tcp:117291:25"/>
+            <p>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Atiſt. lib. 5. Ethic cap. 1. Fr. Euſtach. Tract. 3. de Virt. &amp; vit. Sect. 2. Qu. 1.</note>The <hi>Moraliſts</hi> obſerve, That all <hi>Vertues</hi> are con<g ref="char:EOLhyphen"/>tained in <hi>Juſtice;</hi> he that would be <hi>Juſt,</hi> He muſt be <hi>Prudent,</hi> and He muſt be <hi>Valiant,</hi> and He muſt be <hi>Temperate,</hi> and He muſt be <hi>Faithful:</hi> In a word, He muſt not <hi>abſolutely</hi> come behinde in any <hi>Excellency</hi> whereof he is capable; <hi>He muſt be a very exact man, that would be a juſt man.</hi>
+            </p>
+            <p>
+               <note place="margin">2. A very curious vertue.</note>Secondly, As it is a very <hi>Comprehenſive,</hi> ſo it is alſo a very <hi>curious</hi> Vertue; you have <hi>ſeen,</hi> I ſup<g ref="char:EOLhyphen"/>poſe, <hi>Juſtice</hi> oftentimes <hi>pictured</hi> with a <hi>pair of Scales</hi> in her hand: and indeed, it is a very fit <hi>Emblem,</hi> or <hi>Reſemblance</hi> of the buſineſs: For as in a pair of Scales (if the <hi>Beam</hi> be good, and the <hi>Ballances</hi> even) it is, <hi>ye know,</hi> a very ſmall <hi>matter</hi> that will turn the <hi>Scales</hi> either this <hi>way</hi> or that <hi>way,</hi> one way or an<g ref="char:EOLhyphen"/>other, and ſo here: Now to <hi>ſet</hi> and <hi>keep</hi> the <hi>Scales</hi> even, in this high point of <hi>Juſtice,</hi> that they may not <hi>incline</hi> too much on either <hi>ſide,</hi> upon any <hi>ſiniſter indirect Principle,</hi> there are, I <hi>conceive,</hi> three things <hi>eſſentially</hi> requiſite thereunto:<note place="margin">Three things requiſite to keep the ſcales even in point of Iuſtice.</note>
+               <list>
+                  <item>1. <hi>Wiſdom.</hi>
+                  </item>
+                  <item>2. <hi>Courage.</hi>
+                  </item>
+                  <item>3. <hi>The fear of the Lord.</hi>
+                  </item>
+               </list> 
+               <hi>Wiſdom</hi> to <hi>diſcern,</hi>
+               <note place="margin">
+                  <hi>1.</hi> Wiſdom. Sicuti eſt ali<g ref="char:EOLhyphen"/>quando miſeri<g ref="char:EOLhyphen"/>cordia puniens ita &amp; crudeli<g ref="char:EOLhyphen"/>tas Parcens. <hi>Aug. Maced. Epiſt. 54.</hi>
+               </note> 
+               <hi>Courage</hi> to <hi>execute,</hi> and <hi>The fear of the Lord</hi> to <hi>moderate.</hi>
+            </p>
+            <p>Firſt, there muſt be <hi>Wiſdom to diſcern,</hi> to ſee and foreſee who are fit to be <hi>ſpared,</hi> and who are fit to be <hi>puniſhed;</hi> for there is both <hi>miſericordia puniens,</hi> and <hi>crudelitas parcens,</hi> as the Father ſpeaks; there is both <hi>A puniſhing mercy,</hi> and <hi>A ſparing cruelty:</hi>
+               <pb n="35" facs="tcp:117291:25"/> whileſt ye <hi>ſpare</hi> ſome, ye may be very <hi>cruel</hi> to others; yea, <hi>let me tell</hi> you, That if ye take not heed, in <hi>ſparing</hi> ſome, ye may be <hi>very cruel</hi> to your ſelves: ye know what the Prophet ſaid to <hi>Ahab, Be<g ref="char:EOLhyphen"/>cauſe thou haſt let go a man out of thy hand, whom I ap<g ref="char:EOLhyphen"/>pointed to utter deſtruction; therefore thy life ſhall go for his life, and thy people for his people,</hi> 1 King. 20.42.</p>
+            <p>Secondly, As there muſt be <hi>Wiſdom</hi> to <hi>diſcern,</hi>
+               <note place="margin">2. <hi>Courage.</hi> The Parlia<g ref="char:EOLhyphen"/>ment incou<g ref="char:EOLhyphen"/>raged to do Iuſtice, upon a threefold conſideration.</note> ſo <hi>Courage</hi> to <hi>execute,</hi> and to <hi>carry</hi> on the work <hi>vigo<g ref="char:EOLhyphen"/>rouſly.</hi> And here give me leave to <hi>ſay,</hi> and not only to <hi>ſpeak</hi> it, but alſo to <hi>prove</hi> it, That you have all the <hi>Reaſon</hi> in the world to take <hi>Courage</hi> in this buſi<g ref="char:EOLhyphen"/>neſs, ſince ye have for <hi>certain</hi> the higheſt <hi>Incourage<g ref="char:EOLhyphen"/>ments</hi> to it, that can be <hi>expected.</hi>
+            </p>
+            <p>For firſt, conſider,<note place="margin">1. From the Al<g ref="char:EOLhyphen"/>ſufficiency of God, in his promiſe of be<g ref="char:EOLhyphen"/>ing with thoſe who are with him in this work. 2 Chron. 19.6</note> That the <hi>Work</hi> it ſelf is <hi>Gods Work,</hi> and that he hath engaged himſelf by way of <hi>Promiſe,</hi> to be with you in it; as <hi>Jehoſhaphat</hi> ſaid unto the <hi>Judges,</hi> when he gave them their <hi>charge,</hi> and it was very <hi>excellent counſel,</hi> even that of his, 2 <hi>Chron.</hi> 19.6. ſays he there, <hi>Take heed what ye do, for ye judge not for man, but for the Lord, who is with you in the judgement;</hi> with you, not onely to <hi>ob<g ref="char:EOLhyphen"/>ſerve</hi> you, and to <hi>aſsiſt</hi> you, and to <hi>direct,</hi> and <hi>bleſs</hi> you, but alſo to <hi>protect</hi> and <hi>defend</hi> you; and if <hi>God be thus with you,</hi> then (as the Apoſtle ſays) <hi>Who can be againſt you?</hi>
+               <note place="margin">Rom. 8.31.</note> What can the <hi>Creatures of God</hi> do, to <hi>hurt</hi> or <hi>hinder</hi> you, if the <hi>God of the Crea<g ref="char:EOLhyphen"/>tures</hi> will but undertake to <hi>ſhield</hi> you, and to <hi>protect</hi> you, and to <hi>carry</hi> on his own <hi>Work</hi> by you?<note place="margin">2. From the weakneſs of Adverſaries, who are to be dealt with in a way of Iuſtice.</note>
+            </p>
+            <p>Secondly, <hi>Conſider</hi> the extreme <hi>weakeneſs</hi> of thoſe who ſhall <hi>oppoſe</hi> you in this <hi>Work,</hi> and you ſhal <hi>finde</hi> them to be <hi>All</hi> ſo weak, and ſo feeble, from <hi>Head</hi> to <hi>Foot,</hi> from the <hi>Higheſt</hi> to the <hi>Loweſt,</hi> that it is not
+<pb n="36" facs="tcp:117291:26"/> poſſible for any man of any Spirit, who hath to deal with them as Adverſaries, <hi>to be afraid of their faces.</hi>
+            </p>
+            <p>And that this may appear to be ſo, Be <hi>pleaſed</hi> to obſerve, By <hi>what Metaphors</hi> or <hi>Alluſions</hi> the Holy Ghoſt ſets out <hi>thoſe</hi> that ye are to proceed againſt in this <hi>buſineſs:</hi> Let me to this <hi>purpoſe</hi> but onely <hi>minde</hi> you of two or three <hi>Scriptures</hi> briefly; <hi>Hoſ.</hi> 10.7. <hi>As for Samaria</hi> (ſays God by the Prophet there) <hi>her King is cut off,</hi>
+               <note place="margin">
+                  <hi>Diſcovered from three places of Scri<g ref="char:EOLhyphen"/>pture. 1 Pl. Hoſ 1 7. 2 Pl. Pſal. 37.20. 3 Pl. Pſal 62.3.</hi> Quemadmodum parier vitioſus intuſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> corrup<g ref="char:EOLhyphen"/>tus ſubito impe<g ref="char:EOLhyphen"/>tu cadens non modò ſcipſum frangit propriâ mole, ſed conte<g ref="char:EOLhyphen"/>rit in minutas partes, ira hoſti<g ref="char:EOLhyphen"/>bus ſuis David inexpectatam ruinam denuu<g ref="char:EOLhyphen"/>tiat &amp; quâ prorſus conte<g ref="char:EOLhyphen"/>rantur. <hi>Calvin. in loc.</hi>
+               </note> 
+               <hi>like the foam upon the water:</hi> And a<g ref="char:EOLhyphen"/>gain, <hi>Pſal.</hi> 37.20. <hi>But the wicked ſhall periſh, and the enemies of the Lord ſhall be as the fat of lambs; they ſhall conſume, into ſmoke ſhall they conſume away:</hi> And yet farther, <hi>Pſal.</hi> 62.3. <hi>How long will ye imagine miſchief againſt a man? ye ſhall be ſlain all of you, as a bowing wall ſhall ye be, and as a tottering fence.</hi> Now I pray conſider, whether <hi>any</hi> of theſe things are in <hi>any</hi> mea<g ref="char:EOLhyphen"/>ſure to be <hi>feared</hi> by you: What? a Parliament <hi>afraid</hi> of a little <hi>foam</hi> upon the water? Afraid of a little <hi>ſmoke</hi> out of a Chimney? Afraid of a <hi>bow<g ref="char:EOLhyphen"/>ing wall,</hi> or of a <hi>reeling fence,</hi> that if ye do not pull them <hi>down</hi> the ſooner, they'll break <hi>down</hi> of their own <hi>accord,</hi> and it may be break <hi>down</hi> you too? Do not ye <hi>know</hi> how <hi>dangerous</hi> a thing it is, to <hi>dwell</hi> in an old <hi>ruinous</hi> houſe, that is <hi>ready</hi> to drop down upon your <hi>heads,</hi> without <hi>repairing,</hi> or <hi>rebuilding?</hi> And do ye not likewiſe know this to be at preſent, the ſad condition of the <hi>Kingdom?</hi> Hath not long <hi>experience</hi> taught ſome of you, how many decayed <hi>ceilings,</hi> and how many <hi>worm eaten beams,</hi> and how many <hi>rotten posts,</hi> and <hi>ſtuds</hi> there are, that will never <hi>ſerve</hi> again, that muſt of neceſsity be <hi>removed,</hi> or elſe all will <hi>come down</hi> about our <hi>ears,</hi> and <hi>deſtroy</hi> us <hi>utterly,</hi> and it may be <hi>ſpeedily</hi> too? I beſeech you, conſider theſe things.</p>
+            <pb n="37" facs="tcp:117291:26"/>
+            <p>And then in the third place,<note place="margin">3. From former Experiences. Iob 5.19.</note> yet farther to <hi>encou<g ref="char:EOLunhyphen"/>rage</hi> you, conſider what God hath <hi>already</hi> done for you; how he hath <hi>delivered you in ſix troubles and in ſeven.</hi> And take heed, I pray, of <hi>ſinning</hi> a<g ref="char:EOLhyphen"/>gainſt your own <hi>experiences:</hi> Conſider the <hi>Fears,</hi> the <hi>Straits,</hi> the <hi>Plots,</hi> the <hi>Difficulties,</hi> the <hi>Dangers,</hi> that are already <hi>paſt and gone: Greater</hi> then which, you can <hi>hardly</hi> meet with again.</p>
+            <p>Remember but the <hi>wonders</hi> (I had almoſt ſaid, the <hi>miracles</hi>) of this laſt <hi>Summer,</hi> when the <hi>Sea</hi> be<g ref="char:EOLhyphen"/>gan to <hi>roar</hi> againſt you, and when the <hi>Land</hi> threat<g ref="char:EOLhyphen"/>ned to <hi>bear you</hi> no longer; when the <hi>Malignant</hi> party in both <hi>Kingdoms</hi> were <hi>deſperately</hi> inraged againſt you; And I know not how many <hi>thouſands</hi> of them, a ſecond time up in <hi>arms</hi> againſt you, and nothing to <hi>ſtand, between</hi> you and all this <hi>danger, but a poor deſpiſed, unpaid Army;</hi> and yet, what a <hi>wonderful,</hi> what a <hi>ſudden,</hi> what an <hi>unexpected,</hi> what an <hi>unparalleld deliverance,</hi> did the <hi>Lord work</hi> out for you, <hi>even by that very Army:</hi> And what, <hi>after</hi> all this, and more then all this, that God hath done for you, will ye now <hi>deſpond,</hi> and grow <hi>faint in your minde?</hi> Shall your <hi>hands</hi> ſtill hang down,<note place="margin">Heb. 12.12.</note> and your <hi>knees</hi> wax feeble, and your <hi>hearts</hi> wither like the <hi>Graſs?</hi> Will ye ſtill be like <hi>Ahaz</hi> in that caſe,<note place="margin">Iſa. 7.2.</note> wherein it is ſaid of him, <hi>That his heart was moved, and the heart of his people, as the trees of the wood are moved with the wind?</hi> I beſeech you take heed of faithleſs <hi>fears,</hi> and of unworthy <hi>deſpondencies,</hi> after all the <hi>mighty appearances</hi> of God for you, which have been ſo <hi>managed</hi> from time to time, as if they had been purpoſely given out, to <hi>incourage</hi> you unto this <hi>work,</hi> and in this <hi>work,</hi> that now ye are in <hi>hand</hi> with.</p>
+            <pb n="38" facs="tcp:117291:27"/>
+            <p>
+               <note place="margin">3. The fear of the Lord.</note>There is yet a third thing <hi>requiſite,</hi> to keep the <hi>Scales</hi> even in point of <hi>Juſtice;</hi> and that is, <hi>The true fear of the Lord:</hi> Conſider but two or three places of <hi>Scripture</hi> for that, and I have done.</p>
+            <p>That's a very <hi>conſiderable</hi> place to this <hi>purpoſe,</hi> 2 <hi>Sam.</hi> 23.1, 2, 3.<note place="margin">2 Sam. 23.1, 2.3. opened.</note> Now <hi>theſe are the laſt words of David,</hi> The words of <hi>dying men</hi> ye know, they uſe to <hi>leave</hi> a very deep <hi>impreſsion</hi> upon the <hi>ſpirits</hi> of thoſe that <hi>hear</hi> them: Now (ſays that Text) <hi>Theſe are the last words of David, David the ſon of Jeſſe ſaid, and the man who was raiſed up on high, the anointed of the God of Jacob, the ſweet Pſalmiſt of Iſrael.</hi> Theſe were his laſt words, <hi>The Spirit of the Lord ſpake by me, and his word was in my tongue. The God of Iſrael ſaid, The Rock of Iſrael ſpake to me.</hi> And the thing that he comes to at laſt, after all this holy <hi>Rhetorick,</hi> and <hi>Gallantry</hi> of <hi>expreſsion,</hi> it is this, <hi>He that ruleth over men, muſt be juſt, ruling in the fear of God.</hi>
+               <note place="margin">Exod. 18.21. <hi>Jethroes</hi> advice to <hi>Moſes</hi> con<g ref="char:EOLhyphen"/>cerning the choice of Magiſtrates.</note> And ſays <hi>Jethro</hi> to <hi>Moſes, Exod.</hi> 18.21. <hi>Thou ſhalt provide out of all the people,</hi> not onely <hi>able men,</hi> and men of truth, and men that hate covetouſ<g ref="char:EOLhyphen"/>neſs, <hi>but men that fear God</hi> alſo; <hi>And let them be rulers of thouſands, and rulers of hundreds; rulers of fifties, and rulers of tens; and let them judg the people, &amp;c.</hi> But <hi>above all,</hi> me thinks, that caſe of <hi>Micaiahs,</hi> 1 <hi>King.</hi> 22.<note place="margin">
+                  <hi>Micaiahs</hi> caſe, 1 King. 22.</note> is very <hi>conſiderable</hi> to this purpoſe; and I mention it the rather, becauſe it is not <hi>ordinary</hi> to meet with ſuch a <hi>caſe;</hi> I do not for the preſent <hi>re<g ref="char:EOLhyphen"/>member</hi> the like in all the Book of God again, all things rightly conſidered: For if ye read that <hi>Chapter,</hi>
+               <note place="margin">The diſadvan<g ref="char:EOLhyphen"/>tages that he there went up<g ref="char:EOLhyphen"/>on.</note> you ſhall finde, That the <hi>poor man</hi> (one poor ſingle deſpiſed Prophet) was there upon all maner of <hi>diſadvantages,</hi> in what he was <hi>going about.</hi>
+            </p>
+            <pb n="39" facs="tcp:117291:27"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> For firſt, he was to <hi>appear</hi> before two <hi>great Kings,</hi> the King of <hi>Iſrael,</hi> and the King of <hi>Judah,</hi> whileſt both of them were <hi>ſitting</hi> upon their <hi>thrones</hi> in their <hi>Parliament Robes,</hi> as awful an outward <hi>appearance,</hi>
+               <note place="margin">Verſe 10.</note> as moſt ye ſhall hear, or read of.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> And then ſecondly, He was to deliver a <hi>meſſage</hi> clean <hi>contrary</hi> to what no leſs then <hi>four hundred Pro<g ref="char:EOLhyphen"/>phets,</hi> had endeavored to <hi>prepoſſeſs</hi> the <hi>mindes,</hi>
+               <note place="margin">Verſe 6. com<g ref="char:EOLhyphen"/>pared with 2 Chron. 18.5.</note> and to foreſtal the <hi>judgments</hi> of thoſe two <hi>Kings</hi> withal.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> And then in the third place, The <hi>meſſenger</hi> that came to <hi>call him,</hi> he told <hi>him</hi> what the other <hi>Pro<g ref="char:EOLhyphen"/>phets</hi> had done, and <hi>wiſhed him</hi> by all <hi>means</hi> to do the like.<note place="margin">Verſe 13.</note> 
+               <hi>The words of the Prophets declare good unto the King, with one mouth;</hi> Do thou ſo too, ſays the man to him, Do not thou by any means occaſion any trouble, or breed any <hi>diſturbance,</hi> ſay as they ſay, and then <hi>all</hi> ſhall be <hi>well.</hi> Yea, but <hi>all this</hi> would not ſtir <hi>Micaiah</hi> an <hi>inch</hi> from following <hi>God,</hi> His words are, <hi>As the Lord liveth,</hi>
+               <note place="margin">V. 14.</note> 
+               <hi>what the Lord ſaith unto me, that will I ſpeak:</hi> What thoſe <hi>four hundred</hi> men have ſaid, That's <hi>nothing</hi> to me, ſays <hi>Micaiah;</hi> Look what <hi>God</hi> would have me to <hi>ſpeak,</hi>
+               <note place="margin">Duty belongs to us, events to God.</note> that I muſt <hi>ſpeak,</hi> and that I will <hi>ſpeak,</hi> come of it <hi>what</hi> will, or let what will be the <hi>fruit</hi> on 't.</p>
+            <p>But now I pray <hi>obſerve,</hi> what it was that <hi>poized</hi> the <hi>ſpirit</hi> of the <hi>Prophet</hi> in that <hi>caſe,</hi> or that kept the <hi>Scales</hi> even; and you ſhall <hi>finde</hi> it to be this, He ſaw thoſe two <hi>great Kings</hi> ſitting upon their <hi>thrones,</hi> and withal, <hi>He ſaw the Lord ſitting upon his throne;</hi>
+               <note place="margin">Verſe 19.</note> and he was much more <hi>afraid</hi> to offend that one <hi>God,</hi> that <hi>he ſaw ſitting upon his throne,</hi> then both the o<g ref="char:EOLhyphen"/>ther <hi>Kings,</hi> that he ſaw <hi>ſitting upon their thrones.</hi> And <hi>thus</hi> ye ſee, how the <hi>fear of the Lord</hi> did <hi>regu<g ref="char:EOLhyphen"/>late</hi>
+               <pb n="40" facs="tcp:117291:28"/> and <hi>order</hi> the <hi>Spirit</hi> of that <hi>holy man, in a right maner before the Lord.</hi>
+            </p>
+            <p>And I beſeech you conſider, That <hi>this</hi> 
+               <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not onely <hi>uſeful</hi> for us; <hi>It is not onely written for our ad<g ref="char:EOLhyphen"/>monition,</hi> that <hi>move</hi> in a <hi>ſphear below</hi> you, and <hi>under</hi> you;<note place="margin">Rom. 15.4.</note> but <hi>It is alſo written for your admonition,</hi> as well as for <hi>ours;</hi> and it is <hi>uſeful</hi> for you, as well as for us. <hi>What more uſeful for thoſe that ſit upon earthly thrones, then to ſee God ſitting upon his throne?</hi>
+            </p>
+            <p>
+               <note place="margin">
+                  <hi>1 King. 18.3. Neh 7.2. Iob 1.1. Prov. 23.17. Eccleſ. 11.13. Acts 10.2.</hi> Timor domini Janitor animae, <hi>Bernard.</hi> Quid eſt, quaeſo, Sapientia Chriſtiani? Quid niſi timor &amp; Amor Chriſti? <hi>Salvian. ad Eccleſ. Cathol. lib. 4.</hi> Initium ſapientiae eſt in timore Chriſti, perfectio in amore. <hi>Id. ibid.</hi> Fides facit formidinem. formido facit ſolicitudinem. Solicitudo facit perſeverantiam. <hi>Tertul. contr. Marcion.</hi>
+               </note>Let me <hi>humbly</hi> commend this as a <hi>remarkable</hi> meditation, from <hi>hence</hi> unto you, That <hi>certainly</hi> under <hi>Heaven,</hi> there is not a more <hi>excellent</hi> qualifi<g ref="char:EOLhyphen"/>cation, then for <hi>men</hi> in all <hi>tranſactions</hi> of an <hi>high nature, To have their hearts continually over powered, and over awed, with the true fear of Gods holy name and preſence.</hi>
+            </p>
+            <p>And therefore, that ye may <hi>manage</hi> and <hi>carry</hi> on this <hi>great work</hi> of <hi>Juſtice</hi> and <hi>Judgment,</hi> according to the <hi>will</hi> of <hi>God:</hi> Beſides <hi>Wiſdom</hi> and <hi>Courage,</hi> ſee to <hi>this</hi> alſo,<note place="margin">Iohn 1.16.</note> That out of the <hi>fulneſs</hi> of <hi>Christ</hi> ye be <hi>of quick underſtanding in the fear of the Lord;</hi> and then <hi>according</hi> to his <hi>example,</hi> who is your <hi>great Lord</hi> and <hi>Maſter, Ye ſhall not judge after the ſight of the eye meerly, nor reprove after the hearing of the ear; but with righteouſneſs ſhall ye judg the poor,</hi>
+               <note place="margin">Iſa. 11.3, 4.</note> 
+               <hi>and re<g ref="char:EOLhyphen"/>prove with equity for the meek of the Earth.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:117291:28" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
